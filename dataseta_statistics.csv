@@ -1,0 +1,1001 @@
+Customer_ID,Age,Gender,Annual_Income,Region,Membership_Status,Purchase_Amount,Purchase_Frequency,Satisfaction_Score,Loyalty_Score,Responded_To_Campaign,Product_Category,Campaign_Channel
+1,56,Male,59753.66,South,Basic,462.83,10,8.9,83.12,0,Electronics,Call
+2,69,Male,77825.9,East,Basic,562.0,12,6.5,76.68,1,Electronics,SMS
+3,46,Male,97903.99,North,Silver,488.68,12,2.4,35.06,0,Electronics,Call
+4,32,Female,52036.97,North,Basic,743.79,5,9.7,37.68,0,Home,Email
+5,60,Male,52658.41,South,Gold,109.78,16,5.7,53.36,1,Clothing,Email
+6,25,Male,75662.41,West,Basic,528.72,1,1.7,0.02,0,Clothing,SMS
+7,38,Male,70228.37,North,Basic,136.4,9,6.6,24.12,0,Electronics,SMS
+8,56,Female,87700.61,West,Basic,651.94,12,3.3,20.82,0,Beauty,Social Media
+9,36,Female,68758.92,South,Basic,481.11,5,8.2,25.05,1,Electronics,Social Media
+10,40,Male,54610.62,West,Basic,583.92,3,8.4,80.59,0,Electronics,SMS
+11,28,Male,68859.82,West,Silver,327.22,5,9.8,27.97,0,Beauty,SMS
+12,28,Male,76630.55,West,Gold,755.89,2,5.5,19.15,0,Electronics,Email
+13,41,Male,72307.23,West,Basic,708.34,14,5.1,50.43,0,Home,SMS
+14,53,Female,67609.11,South,Silver,616.71,2,7.8,86.56,1,Electronics,Social Media
+15,57,Female,76000.12,North,Silver,474.1,13,2.2,24.13,0,Home,Email
+16,41,Female,77539.43,East,Gold,615.97,7,5.9,7.85,0,Electronics,Call
+17,20,Female,80732.38,West,Basic,358.62,10,5.9,35.64,0,Clothing,Social Media
+18,39,Male,69730.65,North,Basic,671.11,13,1.8,74.77,1,Beauty,Social Media
+19,19,Male,57493.23,North,Basic,829.9,16,4.8,55.07,0,Clothing,Email
+20,41,Male,62200.71,South,Silver,714.12,14,8.7,81.68,1,Electronics,Call
+21,61,Female,78097.63,North,Gold,354.08,11,8.7,95.96,1,Electronics,Social Media
+22,47,Male,47745.96,South,Basic,572.28,10,1.9,79.27,0,Home,SMS
+23,55,Female,65530.1,West,Basic,241.37,6,1.8,60.38,0,Electronics,Social Media
+24,19,Female,54099.92,West,Gold,614.48,4,3.4,49.33,0,Electronics,Email
+25,38,Male,60431.17,East,Gold,590.12,1,8.9,4.01,1,Electronics,Email
+26,50,Male,79176.78,East,Gold,126.04,7,2.2,98.43,0,Clothing,Email
+27,29,Male,62866.49,East,Silver,267.64,9,7.5,38.35,0,Home,Social Media
+28,39,Female,60696.55,North,Basic,443.37,8,1.9,15.22,1,Clothing,Call
+29,61,Male,39602.16,West,Silver,439.83,5,6.6,66.67,0,Home,SMS
+30,42,Female,71193.8,South,Silver,258.1,19,4.2,28.43,0,Clothing,Email
+31,66,Male,69682.26,East,Basic,577.8,10,8.1,58.58,0,Electronics,Call
+32,44,Female,92448.82,South,Silver,550.29,11,3.1,58.68,0,Clothing,SMS
+33,59,Female,55383.33,South,Silver,461.15,15,6.8,44.57,1,Clothing,Email
+34,45,Male,63287.25,East,Basic,348.84,6,3.1,83.61,0,Home,SMS
+35,33,Female,63740.76,West,Silver,709.74,15,7.4,26.5,0,Home,SMS
+36,32,Female,83661.8,East,Silver,831.08,5,8.9,44.86,1,Clothing,Call
+37,64,Male,58570.57,South,Gold,403.29,19,2.1,53.77,0,Home,SMS
+38,68,Female,64185.32,East,Basic,377.57,19,8.8,66.36,1,Home,Email
+39,61,Male,69118.45,South,Basic,598.24,10,6.3,78.4,1,Home,Call
+40,69,Female,62799.14,South,Silver,428.39,12,2.1,39.48,0,Beauty,Social Media
+41,20,Male,53303.5,East,Basic,472.12,4,4.8,64.6,0,Home,Social Media
+42,54,Male,62911.35,North,Silver,647.93,18,2.4,15.06,1,Beauty,Call
+43,68,Female,76104.48,East,Silver,118.13,16,7.3,93.26,0,Beauty,Social Media
+44,24,Female,44602.27,North,Basic,763.66,8,7.8,38.31,0,Home,SMS
+45,38,Female,61994.55,South,Silver,514.54,4,2.0,72.95,1,Clothing,Email
+46,26,Female,49498.19,South,Silver,417.7,12,5.6,2.03,0,Home,SMS
+47,56,Female,77925.7,North,Basic,482.15,2,8.3,20.52,1,Electronics,Call
+48,35,Male,37152.2,South,Gold,492.49,4,9.4,48.71,0,Clothing,Email
+49,21,Female,51616.17,North,Gold,153.76,5,5.6,87.83,0,Beauty,Call
+50,42,Male,65658.18,North,Silver,798.99,3,9.6,52.73,0,Beauty,Call
+51,31,Male,83482.86,South,Silver,508.27,9,5.8,92.99,1,Clothing,Call
+52,67,Female,59013.75,West,Basic,588.6,18,4.5,48.38,0,Clothing,SMS
+53,26,Male,51672.01,North,Gold,690.31,11,8.6,49.04,1,Home,Email
+54,43,Male,88217.36,East,Silver,295.77,3,5.4,11.97,0,Beauty,Email
+55,19,Male,38279.79,East,Silver,594.69,2,5.2,80.27,0,Electronics,Email
+56,37,Male,27017.91,South,Gold,446.47,9,5.4,24.7,0,Home,SMS
+57,45,Female,66600.22,West,Basic,669.35,14,8.6,89.96,0,Clothing,Social Media
+58,64,Male,52469.19,South,Gold,74.55,4,8.5,91.08,0,Beauty,SMS
+59,24,Female,44681.51,West,Basic,480.18,9,4.6,94.33,0,Clothing,SMS
+60,61,Female,70625.35,North,Basic,379.44,13,4.0,52.02,0,Clothing,Call
+61,25,Male,63657.01,North,Basic,586.45,18,5.4,67.71,1,Clothing,Email
+62,64,Female,51538.82,North,Gold,594.01,15,6.2,77.85,0,Home,Email
+63,52,Female,40795.43,North,Gold,358.47,10,3.1,13.1,1,Electronics,Social Media
+64,31,Female,73086.86,East,Silver,357.57,16,8.1,60.1,0,Electronics,Social Media
+65,34,Male,69753.02,East,Silver,477.87,12,5.4,3.43,0,Beauty,Call
+66,53,Female,58512.36,South,Silver,320.67,5,4.0,49.76,0,Clothing,Email
+67,67,Female,87699.55,West,Gold,668.4,2,2.0,15.48,0,Electronics,Social Media
+68,57,Female,43948.73,North,Basic,426.16,10,3.1,18.29,0,Clothing,Social Media
+69,21,Male,37117.12,North,Basic,81.4,1,9.5,36.5,0,Beauty,Email
+70,19,Female,49621.38,West,Basic,425.04,7,3.7,43.24,0,Clothing,SMS
+71,23,Male,59316.21,West,Silver,292.29,17,2.5,62.32,1,Electronics,Social Media
+72,59,Male,63650.09,South,Silver,173.74,16,5.1,7.44,0,Clothing,Email
+73,21,Male,56381.46,West,Basic,252.51,3,3.8,50.37,1,Electronics,Social Media
+74,46,Male,65280.83,North,Basic,521.88,14,1.3,18.26,0,Beauty,Call
+75,35,Male,41226.91,North,Gold,765.73,10,3.9,57.4,0,Clothing,Social Media
+76,43,Male,81656.47,North,Basic,562.64,7,5.9,63.74,0,Electronics,Email
+77,61,Female,58767.73,North,Silver,378.7,17,6.0,55.67,0,Beauty,Social Media
+78,51,Male,76759.44,North,Gold,591.18,6,4.2,73.83,0,Clothing,Call
+79,27,Female,65140.88,South,Basic,408.18,4,5.0,33.56,0,Beauty,Call
+80,53,Female,66851.3,North,Basic,361.08,17,9.7,76.51,0,Electronics,Social Media
+81,31,Male,68546.51,South,Silver,269.13,9,4.4,43.28,0,Clothing,Social Media
+82,48,Female,66715.63,North,Gold,149.63,4,3.3,48.42,0,Clothing,Call
+83,65,Female,69640.84,East,Silver,422.02,7,3.2,64.81,0,Clothing,Call
+84,32,Female,79937.29,East,Gold,531.61,2,5.1,1.84,0,Beauty,SMS
+85,25,Female,62947.82,East,Basic,480.68,17,7.8,65.4,1,Beauty,SMS
+86,31,Male,70635.06,East,Silver,416.81,8,2.9,61.86,1,Electronics,Call
+87,40,Female,58653.96,South,Silver,310.85,15,7.4,30.98,0,Home,Social Media
+88,57,Male,81601.76,South,Gold,621.65,15,1.2,8.58,1,Clothing,Email
+89,38,Female,49854.12,West,Basic,236.57,8,4.8,9.09,1,Clothing,Social Media
+90,33,Female,87014.11,North,Gold,655.21,16,8.0,92.32,0,Electronics,Social Media
+91,62,Male,59397.63,East,Silver,299.56,19,4.0,68.93,0,Clothing,SMS
+92,35,Female,38538.37,South,Basic,349.51,11,6.1,12.71,1,Beauty,SMS
+93,64,Female,61921.57,North,Basic,206.64,2,2.8,35.67,0,Beauty,SMS
+94,41,Female,49784.23,North,Gold,399.72,17,7.7,59.25,1,Clothing,Call
+95,43,Male,72609.65,South,Basic,695.06,16,1.5,83.56,0,Clothing,Call
+96,42,Female,50210.64,East,Basic,603.13,15,8.7,4.37,0,Beauty,Social Media
+97,62,Male,53307.25,West,Basic,695.68,13,2.8,23.66,0,Clothing,Social Media
+98,58,Female,31656.89,North,Gold,604.43,15,8.9,88.97,0,Beauty,Email
+99,46,Male,53215.41,West,Silver,279.27,4,4.2,0.92,1,Home,Social Media
+100,32,Male,23641.81,East,Silver,433.84,16,7.5,20.14,1,Home,Social Media
+101,62,Female,36241.46,East,Basic,343.96,12,3.9,95.9,0,Clothing,SMS
+102,18,Female,71406.22,West,Silver,766.11,4,9.2,61.34,0,Clothing,SMS
+103,42,Male,71787.0,East,Silver,260.64,3,2.1,26.17,1,Clothing,SMS
+104,24,Male,66381.86,North,Gold,678.74,17,2.6,6.7,0,Beauty,SMS
+105,26,Female,45495.36,West,Gold,678.59,18,5.4,2.82,0,Home,SMS
+106,41,Male,59284.33,East,Basic,865.92,18,1.7,24.47,0,Home,Email
+107,18,Female,59945.96,West,Silver,418.06,17,2.8,88.15,1,Electronics,Email
+108,61,Female,42624.53,North,Basic,642.46,12,9.5,41.59,1,Electronics,Email
+109,25,Female,82550.97,East,Silver,956.33,4,9.8,72.03,0,Clothing,SMS
+110,41,Female,73160.43,North,Basic,376.47,12,4.4,91.83,0,Beauty,Call
+111,28,Male,56685.54,East,Basic,192.99,15,9.3,40.8,1,Clothing,SMS
+112,68,Female,60403.29,South,Basic,124.0,16,5.9,19.13,0,Home,SMS
+113,34,Male,63125.74,East,Silver,642.54,5,3.4,51.71,0,Clothing,Email
+114,25,Female,29373.98,West,Basic,123.37,15,7.3,90.81,0,Clothing,SMS
+115,52,Male,56292.34,East,Silver,425.54,17,6.9,80.44,1,Home,Email
+116,52,Female,49770.24,North,Basic,587.46,18,9.9,6.58,0,Home,SMS
+117,50,Male,44975.7,North,Basic,537.04,5,3.4,69.26,0,Home,Social Media
+118,22,Male,55783.5,East,Silver,585.09,13,7.0,57.19,0,Home,Call
+119,59,Female,86965.3,West,Basic,544.46,19,1.5,90.75,0,Electronics,Call
+120,56,Female,69612.64,South,Basic,755.77,13,2.0,12.25,0,Beauty,Email
+121,58,Female,51432.32,West,Silver,309.54,18,1.0,53.4,0,Beauty,Social Media
+122,45,Female,68588.74,South,Basic,364.6,14,10.0,87.95,0,Home,Call
+123,24,Male,80990.33,North,Basic,345.47,4,8.2,41.0,0,Beauty,Email
+124,26,Female,73869.51,West,Basic,666.04,4,8.1,48.2,0,Beauty,SMS
+125,25,Male,60894.46,South,Gold,680.08,19,5.6,7.05,0,Beauty,SMS
+126,29,Male,50295.95,East,Silver,590.25,13,3.7,27.81,1,Beauty,Social Media
+127,51,Female,70473.35,North,Silver,736.7,12,2.4,32.45,1,Home,Call
+128,50,Male,65902.28,East,Silver,264.39,7,3.6,94.51,0,Clothing,SMS
+129,65,Male,73427.9,North,Basic,833.44,12,4.4,28.27,1,Clothing,Email
+130,40,Male,69527.58,West,Basic,804.65,4,7.8,46.09,0,Clothing,SMS
+131,41,Male,75743.29,West,Silver,647.12,2,5.9,67.13,1,Electronics,SMS
+132,54,Female,51971.47,North,Basic,856.36,2,1.7,16.22,0,Beauty,Call
+133,52,Female,79760.91,North,Basic,168.68,5,1.2,48.64,0,Home,Call
+134,61,Female,62963.99,North,Basic,395.11,10,1.9,73.85,0,Home,Email
+135,57,Female,91128.91,West,Basic,352.94,10,4.7,86.69,0,Electronics,Social Media
+136,39,Male,49662.18,South,Gold,644.3,9,9.4,62.63,1,Home,Social Media
+137,44,Male,86039.46,East,Basic,289.97,13,6.7,66.91,0,Clothing,SMS
+138,52,Female,62968.66,East,Silver,651.5,7,8.2,12.63,0,Electronics,Email
+139,18,Female,50228.73,West,Basic,774.11,5,5.2,94.58,0,Home,Social Media
+140,52,Female,52741.71,East,Gold,639.04,10,4.3,13.26,1,Electronics,Social Media
+141,54,Male,55194.79,North,Basic,556.75,10,2.0,77.47,0,Electronics,SMS
+142,64,Female,66362.49,South,Basic,302.43,6,8.9,26.48,0,Home,Email
+143,31,Female,67842.53,East,Silver,330.63,19,8.0,93.36,1,Clothing,Social Media
+144,20,Female,51394.5,South,Silver,749.92,8,2.5,72.0,0,Home,Call
+145,18,Male,59634.68,North,Basic,655.87,1,5.6,75.38,0,Beauty,Call
+146,22,Male,92134.06,East,Basic,492.2,17,5.4,21.91,1,Beauty,SMS
+147,43,Male,85913.15,West,Basic,416.42,7,6.6,44.3,0,Home,SMS
+148,31,Male,66544.86,South,Basic,94.84,14,9.5,61.78,0,Clothing,SMS
+149,56,Male,60570.05,North,Basic,285.83,17,6.2,77.0,0,Beauty,SMS
+150,44,Male,61800.47,South,Basic,882.28,9,5.9,10.4,1,Beauty,Social Media
+151,26,Male,69202.77,East,Basic,243.91,17,1.5,96.24,0,Home,Email
+152,32,Male,44658.11,East,Basic,537.9,5,1.6,89.02,1,Home,SMS
+153,32,Female,56139.35,West,Silver,701.49,8,2.7,27.03,1,Home,SMS
+154,43,Female,34971.24,North,Gold,249.02,6,1.3,82.28,0,Electronics,Social Media
+155,59,Male,65988.35,North,Silver,536.94,11,7.7,51.83,1,Electronics,SMS
+156,30,Male,69707.94,West,Basic,687.58,19,7.5,46.18,0,Electronics,SMS
+157,68,Female,52752.2,West,Basic,502.5,4,2.2,31.44,0,Home,Email
+158,49,Male,83609.8,North,Gold,1073.68,18,8.5,58.1,1,Clothing,Call
+159,56,Male,41613.52,South,Basic,166.28,1,2.4,72.99,1,Beauty,SMS
+160,66,Male,38034.38,South,Basic,711.75,13,3.7,41.09,0,Electronics,Social Media
+161,69,Female,63366.78,West,Silver,465.44,14,3.2,62.92,0,Clothing,Email
+162,49,Female,75706.47,South,Silver,654.38,1,4.4,69.93,0,Home,Social Media
+163,21,Female,85258.92,North,Silver,588.26,11,3.3,71.11,0,Electronics,Email
+164,47,Female,53116.74,East,Basic,353.37,17,5.4,5.2,0,Home,Email
+165,54,Female,76180.21,East,Basic,545.8,4,4.7,85.97,0,Clothing,SMS
+166,40,Male,59422.37,South,Gold,128.42,12,9.9,45.83,0,Electronics,SMS
+167,56,Female,57410.59,West,Basic,620.65,10,1.5,26.24,0,Electronics,SMS
+168,62,Male,73254.9,West,Silver,559.63,6,2.3,24.18,0,Electronics,Call
+169,32,Male,69784.84,West,Silver,627.73,1,1.5,48.3,1,Electronics,Call
+170,60,Female,36354.12,West,Silver,711.62,7,6.6,88.68,1,Clothing,Social Media
+171,46,Female,82148.11,West,Basic,573.52,16,1.5,37.83,0,Electronics,SMS
+172,53,Male,80701.37,South,Basic,529.62,14,8.5,74.97,0,Beauty,Call
+173,30,Male,50616.56,East,Silver,323.79,6,5.6,9.68,0,Beauty,SMS
+174,49,Male,65937.05,East,Gold,357.56,5,5.7,47.61,0,Home,Call
+175,24,Female,67410.45,South,Gold,737.35,18,6.1,99.17,0,Electronics,Call
+176,68,Female,63910.11,West,Basic,787.27,15,2.5,77.04,1,Beauty,Email
+177,39,Female,51745.42,South,Basic,452.38,6,2.8,21.05,0,Beauty,SMS
+178,45,Female,49925.65,East,Gold,509.2,19,3.9,50.14,0,Beauty,SMS
+179,19,Female,59616.69,North,Silver,319.08,1,6.3,23.36,0,Clothing,Call
+180,59,Male,77590.94,South,Gold,734.55,1,2.9,40.96,0,Electronics,SMS
+181,62,Female,68154.0,West,Basic,633.08,13,2.0,78.01,0,Clothing,Call
+182,23,Male,54440.79,East,Silver,888.24,3,9.7,77.12,1,Clothing,SMS
+183,45,Male,71575.48,East,Silver,324.34,10,1.2,22.81,0,Beauty,Email
+184,45,Male,17271.86,East,Silver,424.4,3,8.2,92.22,0,Beauty,SMS
+185,61,Female,77231.49,East,Basic,546.29,9,8.1,59.26,0,Home,Email
+186,61,Female,33904.29,West,Basic,629.3,8,3.7,37.99,1,Electronics,Social Media
+187,37,Female,54563.39,North,Silver,456.87,3,2.2,50.19,0,Electronics,SMS
+188,47,Male,43204.95,East,Basic,325.41,13,2.3,60.51,0,Beauty,SMS
+189,28,Male,40579.78,South,Basic,676.28,6,7.3,55.99,1,Beauty,SMS
+190,45,Male,77412.4,North,Gold,644.23,13,6.8,48.64,0,Electronics,Email
+191,42,Male,52984.48,East,Basic,316.75,12,8.0,50.49,0,Home,SMS
+192,56,Male,65197.56,North,Gold,771.09,13,9.4,17.64,0,Beauty,SMS
+193,50,Male,59296.19,South,Basic,734.04,2,7.2,81.27,0,Home,Call
+194,18,Female,67155.61,East,Silver,526.86,16,2.4,54.18,0,Clothing,Social Media
+195,44,Female,61152.33,South,Gold,515.92,6,3.2,13.11,0,Beauty,Email
+196,69,Female,40755.12,West,Basic,610.81,19,8.6,76.62,0,Clothing,Call
+197,30,Female,74944.0,East,Basic,327.66,13,2.9,93.24,0,Beauty,Email
+198,58,Male,52593.65,East,Basic,506.01,17,1.7,94.73,0,Clothing,Call
+199,20,Male,36651.27,East,Basic,69.52,9,7.3,36.9,0,Beauty,Social Media
+200,56,Female,53578.27,East,Silver,675.29,17,4.6,13.55,0,Home,Call
+201,23,Male,82511.4,West,Gold,187.7,2,9.3,51.84,1,Home,Email
+202,25,Female,72753.33,East,Basic,800.68,19,6.9,11.26,0,Home,SMS
+203,44,Female,54770.22,North,Basic,433.98,19,1.8,93.4,0,Clothing,SMS
+204,26,Female,54761.13,East,Basic,457.67,7,9.5,18.36,0,Home,Social Media
+205,54,Male,55175.47,West,Silver,374.45,10,3.3,25.28,0,Clothing,Email
+206,50,Female,91151.22,East,Basic,442.39,10,4.0,40.66,0,Beauty,Email
+207,68,Female,65729.03,North,Silver,783.71,9,4.6,38.32,0,Clothing,Email
+208,59,Female,66450.62,West,Silver,2.44,17,1.5,79.47,0,Beauty,Social Media
+209,61,Male,75454.25,West,Silver,755.39,15,5.5,45.63,0,Electronics,SMS
+210,41,Male,63581.84,North,Basic,567.6,2,2.1,17.08,1,Electronics,Call
+211,32,Female,56114.37,North,Silver,258.6,4,4.6,26.72,0,Electronics,Social Media
+212,49,Male,57054.75,North,Basic,284.94,19,4.2,50.91,0,Clothing,Call
+213,49,Male,58925.98,North,Basic,835.28,17,8.0,14.75,0,Electronics,SMS
+214,41,Male,59441.67,North,Gold,310.9,5,8.2,61.17,0,Electronics,Social Media
+215,58,Male,70914.44,West,Silver,269.33,7,2.4,56.57,0,Electronics,SMS
+216,69,Male,60779.19,West,Basic,727.46,18,4.3,71.47,0,Beauty,Call
+217,66,Male,70989.6,East,Basic,567.71,7,4.4,93.77,0,Home,Email
+218,66,Male,58789.25,East,Basic,312.41,17,2.4,91.23,1,Clothing,Email
+219,69,Male,61179.53,South,Basic,543.32,7,8.2,94.61,1,Electronics,Call
+220,29,Male,30026.99,East,Basic,294.85,4,7.4,24.47,0,Beauty,Email
+221,56,Male,73744.92,East,Basic,720.16,8,2.7,13.16,0,Home,Call
+222,19,Female,65197.33,North,Basic,712.27,13,4.3,30.23,1,Home,Social Media
+223,20,Female,74970.15,North,Silver,606.4,4,2.0,89.51,0,Home,Social Media
+224,66,Male,16556.17,East,Silver,572.33,6,6.7,97.21,0,Beauty,Social Media
+225,54,Female,91325.62,South,Silver,852.24,5,2.1,85.93,0,Electronics,Email
+226,66,Female,57906.16,North,Basic,499.94,12,9.9,11.0,0,Home,SMS
+227,34,Male,76622.74,East,Gold,263.63,4,8.0,94.74,0,Beauty,Email
+228,66,Male,44401.41,East,Gold,589.89,9,4.5,42.34,0,Beauty,Email
+229,19,Male,69191.61,West,Gold,917.21,4,6.2,0.93,0,Clothing,SMS
+230,19,Female,44198.77,South,Gold,297.05,19,9.2,44.24,0,Beauty,SMS
+231,45,Female,50643.47,West,Gold,427.71,14,6.0,4.61,1,Home,SMS
+232,40,Male,88710.47,South,Silver,583.29,5,2.6,54.39,0,Home,SMS
+233,54,Male,57139.76,North,Basic,489.22,18,4.4,33.86,0,Beauty,Email
+234,49,Male,63261.49,South,Silver,303.54,10,8.6,47.34,0,Home,Call
+235,50,Female,73051.02,East,Silver,724.37,19,6.8,61.32,1,Beauty,Social Media
+236,18,Female,67435.23,East,Silver,964.01,12,6.9,86.88,1,Home,Call
+237,36,Female,62256.28,South,Silver,539.23,18,8.8,66.19,0,Clothing,Email
+238,19,Female,65474.42,South,Basic,319.19,17,9.0,43.4,0,Electronics,SMS
+239,61,Male,96051.23,South,Basic,190.21,11,9.3,81.94,1,Clothing,Social Media
+240,43,Male,59135.72,West,Gold,551.6,3,1.9,90.56,0,Clothing,Social Media
+241,49,Male,63016.49,South,Silver,720.78,17,5.9,11.98,0,Electronics,Call
+242,23,Male,75759.82,North,Silver,595.03,1,7.7,53.19,0,Home,Email
+243,49,Female,76582.89,West,Basic,499.52,15,7.8,28.45,0,Electronics,Email
+244,21,Female,77805.45,West,Basic,382.15,9,6.5,4.71,0,Beauty,Email
+245,28,Male,69580.95,South,Gold,281.57,15,2.5,66.85,0,Electronics,Social Media
+246,34,Male,42854.93,North,Silver,666.95,3,8.2,86.28,0,Clothing,Call
+247,55,Female,84501.47,West,Silver,682.75,19,7.5,16.29,1,Electronics,Social Media
+248,41,Male,42804.82,East,Basic,190.85,13,1.8,81.24,1,Home,Social Media
+249,22,Female,64539.53,West,Silver,817.97,12,5.2,85.34,1,Clothing,SMS
+250,69,Male,48685.86,South,Basic,614.81,1,2.6,91.43,1,Beauty,Call
+251,51,Male,59037.92,North,Silver,779.92,17,4.0,26.53,0,Home,SMS
+252,23,Male,64931.44,South,Basic,231.57,13,1.2,90.4,0,Clothing,Email
+253,39,Male,64820.36,East,Basic,226.84,1,4.6,32.07,0,Beauty,Social Media
+254,28,Male,66328.81,East,Silver,470.21,10,5.9,55.23,1,Home,Call
+255,65,Male,84205.67,East,Gold,600.56,15,6.6,5.05,0,Beauty,Email
+256,33,Male,66803.01,South,Basic,859.27,7,7.0,4.39,1,Electronics,Call
+257,50,Female,56337.65,West,Gold,641.22,18,8.5,72.04,0,Electronics,Social Media
+258,26,Female,74461.31,South,Basic,451.46,16,2.9,44.45,1,Beauty,Call
+259,23,Female,77842.06,North,Basic,294.73,14,2.1,25.63,0,Electronics,Email
+260,33,Female,41585.88,West,Basic,746.0,18,8.7,19.04,0,Beauty,SMS
+261,46,Female,68961.0,East,Basic,307.06,7,2.4,67.0,1,Home,Social Media
+262,20,Male,70517.59,South,Silver,825.69,17,9.8,0.04,0,Clothing,SMS
+263,37,Male,55536.55,East,Basic,443.12,18,8.6,80.59,1,Beauty,Social Media
+264,53,Female,80635.6,East,Basic,818.12,12,5.5,7.92,0,Clothing,Email
+265,36,Male,57749.17,North,Gold,635.79,8,9.8,19.15,0,Clothing,Social Media
+266,43,Female,61883.65,West,Basic,472.6,2,1.9,38.62,0,Beauty,SMS
+267,20,Female,57403.92,North,Silver,396.12,7,3.7,48.49,0,Electronics,Social Media
+268,36,Male,60233.69,North,Basic,431.82,4,6.7,35.5,0,Home,Email
+269,37,Male,43555.87,North,Silver,585.66,18,4.2,32.07,0,Clothing,Social Media
+270,49,Male,38399.24,East,Basic,515.43,6,9.4,96.39,0,Home,SMS
+271,24,Female,83917.58,North,Basic,381.24,9,1.6,64.16,0,Clothing,Email
+272,69,Male,47295.58,North,Basic,466.87,9,5.9,2.34,0,Beauty,SMS
+273,58,Female,45129.11,West,Basic,515.72,14,6.3,43.02,0,Electronics,Social Media
+274,50,Female,27699.15,West,Basic,74.25,8,6.9,87.5,1,Home,Call
+275,57,Female,50415.57,North,Silver,591.63,19,3.3,30.15,0,Clothing,SMS
+276,56,Male,40153.65,West,Gold,304.06,3,4.3,9.46,0,Beauty,Social Media
+277,35,Male,84630.23,West,Gold,269.33,18,8.6,75.84,0,Beauty,Call
+278,57,Female,75147.26,North,Silver,162.53,5,2.8,60.6,0,Clothing,Call
+279,18,Male,49677.74,East,Basic,141.22,14,8.4,57.03,0,Clothing,Email
+280,28,Male,93786.54,North,Basic,228.91,4,6.1,5.36,1,Clothing,Call
+281,45,Male,74726.48,West,Basic,358.2,7,7.9,14.05,1,Electronics,SMS
+282,42,Female,55127.53,East,Basic,890.65,12,7.4,62.25,0,Clothing,SMS
+283,67,Female,22508.91,South,Silver,394.82,2,2.9,20.78,0,Clothing,Call
+284,40,Male,94364.14,East,Silver,535.55,11,6.1,50.41,1,Electronics,Social Media
+285,48,Female,39156.41,West,Basic,580.1,14,8.8,54.49,0,Beauty,SMS
+286,47,Male,35319.02,East,Basic,526.21,16,4.9,28.35,0,Clothing,SMS
+287,59,Male,75338.56,North,Gold,484.51,6,9.7,94.84,0,Home,Email
+288,52,Male,96596.29,South,Silver,260.94,4,5.1,84.25,0,Beauty,Social Media
+289,24,Male,80764.09,South,Basic,790.19,15,2.3,72.24,1,Home,Call
+290,33,Female,68458.64,South,Gold,861.44,1,4.5,7.8,0,Clothing,Social Media
+291,43,Female,68921.32,West,Gold,163.47,7,9.6,10.61,0,Electronics,Email
+292,65,Female,72801.23,West,Basic,295.19,12,3.9,49.28,0,Electronics,Email
+293,69,Male,71383.93,South,Basic,444.04,10,8.8,16.07,1,Electronics,Social Media
+294,66,Male,64217.87,East,Silver,307.09,5,8.9,97.83,1,Clothing,Email
+295,19,Male,61563.02,South,Gold,601.19,12,4.2,15.85,0,Clothing,Email
+296,18,Female,59061.1,East,Gold,354.35,18,1.7,48.75,0,Home,Email
+297,65,Male,48690.53,East,Basic,933.01,10,7.5,36.41,0,Electronics,Social Media
+298,29,Female,55789.87,West,Basic,738.11,6,3.8,63.94,1,Clothing,Email
+299,22,Female,34605.65,East,Silver,542.51,12,8.0,12.9,1,Beauty,Call
+300,54,Female,58524.91,South,Silver,705.4,7,5.0,43.03,0,Clothing,Call
+301,49,Female,45171.13,West,Basic,721.18,18,5.4,27.47,1,Clothing,SMS
+302,26,Female,43446.16,North,Gold,387.21,2,8.0,88.78,0,Beauty,Call
+303,58,Female,62698.41,North,Silver,336.76,10,4.4,4.06,0,Electronics,SMS
+304,52,Male,80880.03,West,Gold,515.63,15,5.0,91.37,0,Beauty,Social Media
+305,36,Male,73774.75,South,Gold,672.33,12,4.4,83.3,0,Electronics,Email
+306,65,Female,36442.49,North,Silver,527.81,17,4.3,29.76,0,Beauty,Call
+307,33,Female,45155.58,North,Basic,184.6,4,5.7,78.93,0,Home,SMS
+308,20,Male,74111.57,East,Silver,339.44,7,8.3,3.12,0,Electronics,Social Media
+309,37,Female,45262.69,East,Basic,485.21,9,4.3,96.69,0,Clothing,SMS
+310,41,Female,56630.5,South,Silver,484.87,19,5.7,52.66,0,Home,Email
+311,50,Male,68250.78,West,Basic,894.51,7,7.0,30.33,0,Electronics,Call
+312,41,Female,45474.83,South,Silver,222.8,2,3.4,36.26,0,Electronics,Social Media
+313,69,Female,61580.63,West,Basic,601.12,6,3.5,6.64,0,Electronics,SMS
+314,28,Female,39989.62,North,Basic,797.82,18,9.4,98.93,0,Beauty,Social Media
+315,66,Male,50979.49,East,Basic,954.29,6,7.5,3.93,1,Electronics,SMS
+316,25,Male,64796.73,South,Basic,419.12,13,6.2,65.49,1,Clothing,SMS
+317,53,Male,36105.09,South,Silver,598.29,19,6.8,44.27,1,Electronics,Email
+318,55,Female,66607.12,West,Silver,613.95,2,1.3,94.89,0,Clothing,Email
+319,57,Female,59705.43,West,Silver,539.1,12,6.6,24.6,0,Clothing,SMS
+320,37,Male,68287.35,South,Basic,480.23,15,5.6,53.21,0,Clothing,Call
+321,52,Female,63358.71,West,Basic,587.2,14,5.9,48.24,0,Home,Social Media
+322,65,Female,80462.11,South,Basic,6.45,6,4.2,70.29,0,Clothing,Social Media
+323,42,Female,61878.37,South,Basic,636.41,18,1.7,6.8,0,Beauty,Email
+324,52,Female,53558.92,South,Gold,525.24,5,2.7,19.38,1,Electronics,Call
+325,42,Female,61834.46,North,Basic,455.51,18,9.6,21.46,0,Beauty,SMS
+326,46,Male,68149.47,West,Basic,909.37,3,4.7,73.82,1,Home,Email
+327,35,Female,60732.9,East,Basic,365.01,3,5.2,18.91,1,Electronics,SMS
+328,63,Male,60608.88,East,Basic,419.38,10,1.5,57.35,0,Clothing,SMS
+329,35,Female,49470.12,West,Silver,898.31,19,1.3,21.52,1,Electronics,Email
+330,19,Male,50056.49,South,Silver,333.59,3,7.5,86.16,0,Home,Call
+331,52,Female,38960.92,East,Basic,389.98,12,5.8,94.22,1,Home,Social Media
+332,33,Male,86243.65,East,Basic,470.59,16,5.6,51.85,0,Beauty,Email
+333,58,Female,41342.05,West,Basic,668.15,17,3.2,35.23,1,Electronics,Call
+334,53,Male,49606.42,East,Basic,541.56,7,7.7,23.41,0,Electronics,SMS
+335,50,Female,49223.89,South,Basic,241.47,13,2.5,4.98,1,Electronics,Email
+336,21,Male,73423.87,West,Gold,393.57,2,2.7,26.85,0,Beauty,Social Media
+337,50,Female,55575.75,South,Silver,378.53,4,5.1,65.42,0,Home,Social Media
+338,31,Male,78716.13,East,Silver,484.56,10,3.6,53.36,1,Clothing,SMS
+339,38,Male,49897.64,East,Basic,585.17,7,3.2,94.4,1,Electronics,Email
+340,65,Female,64184.91,South,Basic,583.64,17,6.8,39.63,0,Beauty,Social Media
+341,37,Female,47469.79,North,Silver,144.8,6,6.9,69.39,0,Beauty,Email
+342,25,Male,92177.24,East,Silver,712.79,19,8.4,48.93,0,Clothing,Social Media
+343,24,Female,42186.02,North,Silver,550.51,5,4.8,51.26,1,Home,SMS
+344,20,Male,64647.31,East,Basic,776.91,10,1.7,26.78,1,Electronics,SMS
+345,34,Male,69506.65,North,Silver,588.84,9,3.5,45.5,1,Electronics,Email
+346,50,Male,66206.99,North,Basic,720.26,13,9.8,47.08,0,Beauty,Call
+347,65,Female,57220.69,North,Gold,593.31,19,6.4,70.66,0,Home,Call
+348,29,Male,58052.69,South,Silver,769.25,6,7.4,94.06,0,Electronics,SMS
+349,68,Male,60657.17,North,Silver,604.45,4,1.1,32.93,1,Clothing,Social Media
+350,39,Female,57794.97,North,Basic,480.42,3,5.7,4.22,0,Home,Call
+351,39,Female,74458.19,North,Silver,954.49,3,1.3,49.63,1,Home,SMS
+352,63,Female,93157.85,East,Basic,677.81,4,6.1,54.45,0,Beauty,Social Media
+353,47,Female,51637.62,North,Basic,614.75,5,9.3,16.84,0,Beauty,Social Media
+354,55,Male,39452.96,East,Basic,244.74,8,9.7,76.05,0,Electronics,Call
+355,55,Male,58675.77,North,Silver,242.34,16,5.9,98.49,0,Beauty,SMS
+356,62,Male,98695.64,North,Basic,558.54,3,5.1,94.58,0,Home,Social Media
+357,68,Male,47944.88,South,Basic,529.1,12,9.5,19.71,0,Electronics,Social Media
+358,25,Female,84586.75,East,Gold,377.18,8,7.1,87.54,0,Electronics,Email
+359,44,Male,85165.51,North,Basic,528.2,13,1.6,70.45,1,Home,Email
+360,44,Male,51696.18,East,Silver,817.73,4,5.2,45.38,0,Electronics,Call
+361,51,Female,68534.75,East,Basic,639.08,14,3.2,54.06,0,Clothing,Email
+362,38,Male,84425.95,West,Basic,271.8,14,5.2,84.96,0,Clothing,SMS
+363,47,Male,54313.08,South,Silver,477.7,13,5.1,48.01,0,Electronics,Call
+364,50,Male,56946.29,South,Basic,339.01,6,6.2,37.32,1,Beauty,Call
+365,45,Male,51274.79,South,Basic,422.46,17,4.2,49.32,0,Clothing,Email
+366,64,Male,44778.65,West,Silver,417.28,4,2.5,57.91,1,Electronics,Social Media
+367,50,Male,50260.84,West,Silver,404.47,8,5.5,18.91,0,Clothing,SMS
+368,22,Female,41640.9,South,Silver,248.97,17,8.5,90.09,0,Beauty,SMS
+369,65,Female,60511.25,West,Basic,474.47,3,7.0,67.42,0,Home,SMS
+370,36,Male,48450.4,West,Basic,387.88,17,4.0,63.33,0,Electronics,Call
+371,21,Male,63506.79,West,Silver,85.89,9,9.4,9.95,0,Electronics,SMS
+372,52,Female,36661.57,South,Silver,910.59,2,9.2,60.42,1,Electronics,Social Media
+373,66,Male,64963.2,South,Gold,717.75,13,2.9,12.1,0,Electronics,Social Media
+374,34,Male,72502.93,South,Gold,424.74,2,1.4,7.87,0,Electronics,Email
+375,61,Male,30093.97,West,Gold,503.76,11,7.7,52.73,0,Electronics,SMS
+376,45,Female,65610.85,South,Basic,265.67,15,8.4,40.28,0,Beauty,Call
+377,47,Male,78415.03,West,Basic,839.14,11,9.7,58.88,0,Home,Email
+378,46,Female,41855.38,North,Silver,879.46,3,9.0,8.92,0,Beauty,Social Media
+379,63,Male,85088.59,West,Basic,531.34,3,6.4,43.1,0,Beauty,SMS
+380,23,Female,66285.29,East,Basic,704.71,12,5.8,17.48,0,Home,Social Media
+381,52,Female,49424.82,South,Gold,535.06,5,1.3,98.71,0,Beauty,Email
+382,58,Male,59163.46,South,Gold,232.65,7,3.2,56.12,1,Clothing,Social Media
+383,54,Female,68374.9,East,Basic,417.64,7,5.1,68.74,0,Beauty,SMS
+384,41,Male,61140.08,West,Basic,526.39,13,6.7,32.54,0,Electronics,SMS
+385,46,Female,68081.34,North,Basic,409.09,9,6.0,9.47,1,Clothing,Email
+386,66,Male,46189.9,East,Gold,456.27,13,7.7,97.59,0,Clothing,SMS
+387,63,Male,62540.41,East,Gold,481.72,12,3.5,28.63,0,Home,Social Media
+388,48,Female,38794.28,West,Basic,483.82,13,6.1,42.38,0,Beauty,Social Media
+389,52,Male,58331.61,South,Basic,510.45,10,1.8,64.99,0,Beauty,Call
+390,50,Male,46441.39,West,Gold,287.88,1,4.7,2.47,0,Clothing,Call
+391,69,Female,48967.05,East,Basic,356.6,8,7.8,81.03,1,Beauty,Call
+392,38,Male,78541.4,East,Silver,243.08,16,7.2,53.66,1,Beauty,Social Media
+393,49,Male,76369.65,South,Gold,695.56,13,9.9,27.82,1,Home,Social Media
+394,40,Female,69137.07,South,Basic,78.87,3,3.5,6.16,1,Clothing,Email
+395,50,Female,43615.31,South,Silver,730.72,3,5.5,16.25,0,Electronics,Call
+396,20,Male,55253.87,West,Basic,777.27,5,4.0,89.5,0,Clothing,Social Media
+397,35,Male,78196.47,South,Basic,439.56,11,5.0,68.6,1,Home,Email
+398,42,Female,62125.75,East,Gold,20.63,7,8.7,24.99,1,Home,Social Media
+399,59,Female,94789.94,East,Basic,427.74,10,7.2,6.56,0,Home,Email
+400,48,Male,65899.77,North,Gold,487.16,10,8.9,69.06,1,Beauty,Call
+401,20,Female,62880.74,West,Silver,297.88,2,2.8,57.24,0,Clothing,Call
+402,57,Male,55363.25,North,Basic,396.96,3,8.9,40.45,0,Beauty,Call
+403,63,Male,62003.11,East,Basic,806.04,8,1.5,36.36,0,Beauty,Social Media
+404,41,Male,57712.95,North,Basic,632.99,11,9.0,21.68,0,Clothing,Social Media
+405,67,Male,70621.63,East,Basic,315.09,13,4.0,66.96,0,Home,Email
+406,49,Male,74350.53,North,Basic,180.48,7,3.8,97.07,0,Electronics,SMS
+407,64,Female,48210.16,South,Basic,434.6,13,5.6,17.57,0,Electronics,SMS
+408,39,Female,40031.51,North,Basic,457.31,2,9.5,59.71,0,Clothing,Call
+409,40,Female,32456.92,South,Silver,599.24,6,1.4,42.42,0,Clothing,SMS
+410,19,Female,67619.87,South,Silver,392.94,9,4.2,44.67,1,Home,Call
+411,44,Male,43449.5,West,Silver,602.3,2,8.7,25.41,0,Clothing,Email
+412,59,Male,27706.64,South,Basic,887.03,18,4.6,82.51,0,Clothing,SMS
+413,19,Male,65828.68,South,Basic,663.1,16,2.8,48.53,0,Home,SMS
+414,43,Male,97394.99,North,Silver,490.38,12,4.8,54.34,0,Home,Call
+415,34,Female,59908.94,East,Basic,463.37,7,4.5,30.48,1,Beauty,Email
+416,57,Male,72577.36,West,Basic,428.67,7,9.2,18.18,0,Clothing,SMS
+417,50,Male,61227.44,South,Gold,736.13,17,7.9,8.59,1,Electronics,SMS
+418,26,Female,58516.66,West,Silver,374.54,13,5.5,71.41,0,Clothing,SMS
+419,60,Female,73786.15,North,Silver,509.04,11,9.9,19.62,0,Electronics,Email
+420,65,Female,55645.88,South,Basic,510.24,6,5.2,69.01,0,Electronics,Email
+421,56,Female,64010.88,North,Silver,399.64,14,1.5,39.04,0,Electronics,SMS
+422,46,Male,64825.47,West,Silver,225.51,6,3.4,41.58,0,Beauty,Call
+423,59,Male,49978.64,North,Silver,564.59,6,4.9,46.92,0,Home,Call
+424,43,Female,74880.64,West,Silver,487.8,2,2.4,36.77,0,Home,SMS
+425,52,Male,57375.6,North,Gold,600.05,15,9.5,10.06,0,Beauty,Email
+426,67,Male,48663.82,West,Silver,393.28,17,7.9,30.96,1,Home,SMS
+427,42,Male,68047.65,East,Basic,744.16,8,3.4,66.37,0,Beauty,Email
+428,41,Female,46522.98,North,Silver,324.65,5,6.3,66.58,0,Clothing,SMS
+429,30,Male,60422.72,North,Silver,842.41,17,7.5,28.62,0,Beauty,Email
+430,24,Female,59863.22,East,Silver,150.47,1,9.5,46.01,0,Home,Social Media
+431,53,Male,76288.43,East,Basic,586.95,18,8.9,19.34,0,Home,Call
+432,62,Male,67120.47,North,Basic,595.09,15,5.6,21.04,1,Clothing,Social Media
+433,37,Male,59624.6,East,Gold,340.89,5,8.0,2.3,1,Beauty,Call
+434,18,Female,72266.49,South,Silver,584.88,7,6.1,89.67,0,Clothing,Email
+435,25,Male,80853.11,West,Gold,755.9,18,6.0,21.07,0,Electronics,Social Media
+436,63,Female,68367.15,West,Silver,56.64,6,2.0,22.75,0,Beauty,Call
+437,33,Female,60155.29,West,Silver,600.55,5,2.1,27.96,0,Clothing,SMS
+438,31,Female,40322.46,South,Silver,1.35,19,5.8,12.74,0,Clothing,Email
+439,29,Male,44023.3,East,Gold,306.87,10,3.4,63.93,0,Home,Email
+440,68,Male,55421.63,East,Silver,825.83,15,1.2,7.51,0,Beauty,SMS
+441,40,Male,50857.32,North,Silver,383.64,10,7.5,13.42,0,Electronics,SMS
+442,32,Male,57195.43,East,Basic,265.22,16,1.3,64.48,0,Electronics,Call
+443,45,Female,60849.75,North,Basic,460.41,12,6.4,33.97,0,Beauty,Email
+444,51,Female,67945.39,South,Silver,913.58,18,5.9,70.79,0,Beauty,Call
+445,19,Female,58942.52,West,Basic,133.66,1,9.7,55.74,0,Clothing,SMS
+446,49,Male,67297.52,West,Basic,289.74,16,5.4,25.6,1,Home,Email
+447,40,Female,60967.12,West,Basic,799.49,6,1.6,65.08,0,Home,SMS
+448,39,Male,30368.0,East,Basic,871.54,3,6.0,11.63,1,Home,Call
+449,68,Female,45909.97,North,Basic,479.31,2,8.6,53.64,0,Beauty,Call
+450,42,Male,57838.69,North,Basic,252.19,2,10.0,43.71,0,Home,Call
+451,39,Male,41854.58,South,Gold,919.17,13,4.9,26.79,0,Clothing,Email
+452,39,Female,68998.93,East,Silver,818.89,9,3.9,60.4,0,Beauty,SMS
+453,66,Female,82961.26,South,Basic,635.79,16,9.2,87.13,1,Beauty,SMS
+454,69,Female,78281.43,North,Basic,337.52,5,2.7,99.89,0,Home,Call
+455,59,Female,56798.36,North,Silver,490.19,7,6.5,60.78,0,Electronics,Call
+456,23,Male,82360.89,West,Basic,467.93,13,4.7,40.47,0,Electronics,Call
+457,32,Female,62230.01,East,Gold,566.17,13,1.4,22.52,1,Clothing,Call
+458,60,Female,54943.71,North,Silver,790.2,7,4.1,25.71,0,Home,Social Media
+459,54,Female,50798.96,West,Silver,675.88,10,3.4,47.95,1,Home,Social Media
+460,50,Male,55462.95,East,Basic,284.52,15,7.2,36.73,1,Beauty,Social Media
+461,25,Male,54177.35,South,Silver,775.3,6,9.5,91.38,0,Beauty,Call
+462,61,Female,62556.24,East,Basic,562.63,5,3.4,36.83,1,Home,Call
+463,61,Male,62408.61,East,Gold,637.41,2,8.3,37.34,1,Beauty,SMS
+464,22,Female,60045.69,North,Silver,793.31,15,1.5,38.35,0,Home,Email
+465,56,Male,66554.07,North,Basic,277.68,16,5.8,83.66,0,Clothing,SMS
+466,21,Male,77859.69,East,Basic,492.83,19,1.6,65.08,0,Beauty,Social Media
+467,23,Male,74243.31,North,Basic,393.71,9,9.4,61.42,0,Home,SMS
+468,62,Male,37726.53,North,Silver,186.43,19,7.9,33.41,0,Beauty,Call
+469,49,Female,21691.18,North,Basic,569.34,7,6.9,81.79,0,Clothing,Social Media
+470,69,Female,74014.8,West,Silver,1002.31,4,8.4,3.84,0,Beauty,Social Media
+471,47,Female,39496.82,West,Basic,131.98,3,6.8,87.08,0,Home,Email
+472,64,Male,56628.52,East,Silver,493.54,11,9.7,51.27,0,Beauty,Email
+473,52,Female,42448.3,North,Gold,628.11,1,7.4,39.83,1,Beauty,Social Media
+474,57,Female,32970.29,West,Silver,524.62,6,9.3,49.72,1,Home,Social Media
+475,69,Female,68121.94,East,Silver,477.37,11,5.7,66.74,0,Electronics,SMS
+476,33,Male,71387.33,North,Basic,240.16,1,2.1,1.28,0,Beauty,Social Media
+477,30,Male,51352.34,South,Basic,546.56,7,5.8,87.16,0,Beauty,Call
+478,67,Male,21134.37,North,Silver,348.65,6,2.1,44.67,1,Clothing,SMS
+479,59,Female,51806.33,North,Basic,62.02,14,6.3,34.3,0,Electronics,Call
+480,47,Female,65877.06,West,Basic,738.92,2,5.3,13.82,0,Clothing,Call
+481,36,Female,37816.33,East,Basic,691.68,4,6.6,43.95,1,Home,Call
+482,34,Male,62750.4,East,Basic,510.33,11,1.1,49.63,1,Home,Social Media
+483,36,Male,59770.35,West,Basic,545.81,15,2.8,40.36,1,Clothing,Email
+484,45,Female,68689.37,North,Gold,714.86,18,5.4,67.87,1,Beauty,Email
+485,43,Male,61793.71,South,Basic,544.87,1,9.6,42.09,0,Electronics,Call
+486,54,Male,45403.97,North,Silver,680.8,3,4.5,96.14,0,Clothing,Social Media
+487,43,Male,77948.57,North,Basic,440.5,3,4.8,59.93,0,Clothing,SMS
+488,40,Male,57622.06,South,Silver,762.4,7,7.4,80.75,0,Home,Call
+489,26,Female,59590.43,West,Basic,564.16,1,6.4,10.94,1,Beauty,SMS
+490,29,Male,46000.98,East,Gold,538.81,11,3.7,39.73,0,Electronics,SMS
+491,18,Male,53350.77,West,Gold,245.99,6,4.7,33.68,0,Clothing,Social Media
+492,18,Male,46727.96,West,Basic,557.39,3,3.0,56.95,1,Electronics,Social Media
+493,64,Male,57405.81,North,Gold,333.61,19,9.7,86.11,0,Electronics,Email
+494,51,Female,85675.63,East,Gold,372.34,2,2.2,7.83,1,Clothing,Email
+495,49,Female,39421.48,East,Gold,336.92,18,4.3,7.26,1,Electronics,Social Media
+496,65,Male,35796.58,West,Gold,286.75,12,1.2,85.03,0,Home,Call
+497,42,Male,82067.55,South,Basic,924.95,10,3.0,21.29,0,Beauty,Email
+498,57,Male,56860.14,West,Silver,766.27,5,8.0,66.88,0,Beauty,SMS
+499,62,Male,49963.91,South,Basic,884.07,9,2.8,54.29,0,Beauty,Call
+500,18,Male,75598.57,East,Basic,255.42,2,1.7,83.29,0,Home,SMS
+501,33,Male,50915.77,West,Gold,514.25,2,5.3,12.51,0,Home,Social Media
+502,56,Female,87390.15,North,Basic,241.3,6,1.1,12.98,1,Home,SMS
+503,22,Male,70168.89,West,Silver,360.86,10,1.8,55.68,0,Beauty,Call
+504,39,Female,52681.33,East,Gold,316.37,18,8.3,94.64,1,Electronics,Social Media
+505,46,Female,92359.62,North,Gold,747.92,12,7.9,41.5,0,Home,Call
+506,20,Male,50914.28,North,Gold,420.75,4,9.2,32.69,0,Clothing,SMS
+507,29,Female,71131.43,South,Basic,713.68,17,8.7,60.67,1,Home,Call
+508,43,Female,64489.39,North,Basic,620.82,15,7.1,93.04,0,Clothing,Social Media
+509,33,Female,79526.12,North,Basic,960.73,6,1.5,83.69,0,Beauty,SMS
+510,68,Female,83422.67,West,Basic,204.11,16,8.0,99.55,0,Clothing,SMS
+511,54,Female,60480.06,East,Basic,751.85,17,8.6,2.26,1,Home,Email
+512,39,Female,48698.73,South,Basic,729.29,3,8.2,11.29,0,Home,Email
+513,46,Male,66899.58,West,Silver,305.32,10,5.6,60.95,0,Electronics,Call
+514,31,Female,49834.27,North,Silver,701.43,5,3.1,82.06,0,Beauty,Email
+515,45,Female,90200.81,North,Basic,567.23,14,8.6,28.52,1,Clothing,Email
+516,22,Female,62048.03,South,Silver,454.5,13,7.5,23.92,1,Beauty,Email
+517,64,Male,54520.18,East,Basic,335.21,6,9.8,78.7,0,Home,Email
+518,66,Female,62770.2,South,Basic,356.18,12,2.4,5.64,1,Electronics,Social Media
+519,47,Male,39793.11,West,Silver,909.96,8,3.0,36.94,0,Home,Social Media
+520,63,Female,45425.79,South,Silver,500.14,5,2.9,50.58,0,Home,Email
+521,69,Male,78006.21,North,Silver,656.43,15,8.1,56.03,0,Home,Call
+522,22,Male,50146.59,West,Basic,341.82,16,2.7,72.86,0,Clothing,Social Media
+523,29,Female,44296.34,North,Gold,344.03,1,1.6,35.48,0,Home,Email
+524,33,Female,68049.79,East,Silver,716.4,16,10.0,61.27,0,Beauty,Social Media
+525,43,Male,77785.56,North,Silver,230.08,5,1.2,58.54,0,Beauty,SMS
+526,43,Female,70784.3,North,Silver,416.96,3,8.5,54.76,1,Electronics,Social Media
+527,65,Male,74940.72,South,Gold,506.81,15,4.3,64.05,0,Beauty,Social Media
+528,38,Male,48648.07,North,Silver,522.27,13,8.6,25.94,0,Home,Call
+529,56,Male,38672.84,West,Silver,464.18,16,6.0,8.46,1,Home,Social Media
+530,53,Male,82520.0,West,Gold,579.16,11,9.1,11.93,0,Beauty,Call
+531,50,Male,55159.8,East,Silver,638.57,2,9.3,22.46,0,Electronics,SMS
+532,47,Female,56237.5,West,Basic,646.93,6,1.1,50.02,1,Electronics,Email
+533,54,Male,79922.91,South,Silver,302.84,6,1.7,84.04,0,Beauty,Call
+534,40,Male,68343.45,East,Basic,443.17,14,3.3,70.13,0,Clothing,Social Media
+535,27,Female,66838.32,West,Basic,738.95,11,7.0,78.9,0,Clothing,Social Media
+536,22,Male,92475.04,South,Silver,678.93,8,9.0,35.1,1,Clothing,Call
+537,53,Female,50347.23,West,Gold,225.43,8,5.1,40.47,0,Clothing,SMS
+538,51,Female,73917.6,West,Gold,570.3,1,6.5,39.37,1,Beauty,Email
+539,69,Female,60855.2,North,Basic,104.35,7,2.7,19.19,0,Electronics,Social Media
+540,48,Male,64028.88,West,Silver,509.39,6,8.2,6.12,0,Home,SMS
+541,27,Male,82927.03,West,Basic,879.55,8,9.7,59.09,1,Home,Email
+542,36,Male,67617.54,South,Gold,310.42,19,3.4,98.92,0,Beauty,Email
+543,49,Female,68074.44,South,Gold,333.14,8,5.5,16.68,0,Home,Social Media
+544,18,Male,76087.61,North,Silver,652.81,14,1.8,4.67,0,Clothing,Call
+545,22,Female,54525.71,West,Gold,191.44,18,6.0,77.95,1,Electronics,Social Media
+546,62,Male,47411.85,North,Silver,373.45,16,5.5,25.26,0,Beauty,Social Media
+547,21,Female,44327.86,West,Silver,619.29,9,2.3,82.96,0,Electronics,Social Media
+548,33,Male,30504.65,East,Basic,373.14,15,5.0,70.39,0,Beauty,SMS
+549,41,Male,90843.11,East,Basic,452.81,10,4.0,94.57,1,Beauty,Call
+550,33,Male,43451.87,North,Silver,648.84,16,5.7,40.89,0,Beauty,SMS
+551,19,Female,56681.2,North,Silver,584.31,4,6.3,66.2,0,Beauty,Social Media
+552,66,Female,55847.8,North,Basic,553.36,13,1.1,46.49,0,Electronics,Call
+553,45,Male,64611.1,South,Gold,432.18,5,7.8,63.06,0,Home,Email
+554,49,Male,72236.06,South,Basic,574.01,7,7.4,44.96,0,Beauty,Call
+555,44,Female,72907.1,South,Silver,475.25,9,4.3,18.86,0,Clothing,Social Media
+556,37,Female,51253.84,North,Silver,591.56,8,1.5,50.79,0,Beauty,Call
+557,41,Female,57493.17,West,Silver,400.61,16,7.8,52.86,1,Electronics,Email
+558,29,Male,64238.7,East,Silver,463.49,6,9.6,81.06,1,Beauty,Email
+559,67,Female,56269.63,North,Basic,302.01,16,3.2,73.55,0,Clothing,Call
+560,52,Male,84110.18,South,Basic,493.0,6,3.9,66.38,1,Electronics,Email
+561,50,Female,67364.62,South,Silver,337.8,14,2.7,11.34,0,Beauty,SMS
+562,50,Male,71023.17,North,Silver,277.19,1,6.2,72.06,1,Clothing,Call
+563,68,Female,69943.22,North,Basic,551.73,9,2.4,50.03,0,Electronics,Email
+564,60,Female,77602.11,South,Silver,542.55,13,4.2,89.41,0,Beauty,Email
+565,54,Female,62715.32,West,Basic,656.57,19,7.3,91.99,1,Clothing,Call
+566,29,Female,40547.52,South,Silver,413.77,17,6.0,5.52,1,Electronics,SMS
+567,20,Female,65995.32,South,Gold,581.61,11,4.5,82.06,0,Beauty,Call
+568,18,Male,50229.65,North,Basic,610.16,8,4.8,3.77,0,Electronics,Email
+569,50,Female,52070.75,West,Basic,588.95,5,6.1,36.72,0,Clothing,Call
+570,57,Female,68795.46,South,Silver,334.87,10,1.1,54.23,0,Beauty,Email
+571,27,Female,78574.25,South,Silver,529.87,7,1.7,14.81,0,Beauty,Social Media
+572,60,Male,60319.07,East,Silver,572.83,10,8.9,74.63,0,Beauty,Call
+573,61,Female,64632.5,North,Gold,501.44,4,1.7,0.84,1,Clothing,Call
+574,46,Male,85533.22,East,Gold,82.7,9,7.4,16.86,0,Home,Email
+575,30,Female,63611.3,East,Gold,532.1,14,9.3,58.08,0,Beauty,Email
+576,29,Female,99025.25,South,Silver,942.51,2,3.4,71.44,0,Clothing,Email
+577,48,Male,68482.64,North,Basic,427.99,9,4.3,91.66,0,Electronics,Email
+578,63,Female,33588.56,West,Basic,354.38,1,6.1,70.55,0,Electronics,Call
+579,19,Male,71300.12,South,Basic,574.67,10,8.9,67.18,0,Clothing,Email
+580,68,Male,65717.38,West,Silver,562.48,10,9.5,39.43,1,Home,Call
+581,67,Female,79346.29,West,Basic,738.55,3,7.7,0.13,1,Clothing,SMS
+582,52,Male,70097.72,North,Gold,248.43,6,1.8,12.02,0,Electronics,Call
+583,40,Female,57923.16,East,Silver,646.28,6,7.0,53.46,0,Electronics,Email
+584,34,Female,41635.53,North,Silver,618.08,2,4.7,67.51,0,Beauty,Email
+585,43,Male,56864.65,West,Basic,471.57,18,5.2,41.74,1,Home,SMS
+586,25,Male,47242.19,South,Basic,567.74,2,1.4,73.07,1,Clothing,Call
+587,46,Male,51292.15,West,Basic,705.89,12,2.7,52.19,0,Electronics,SMS
+588,43,Male,68828.68,South,Basic,674.46,5,8.1,7.42,0,Electronics,Call
+589,27,Female,85048.57,South,Basic,271.4,7,5.1,19.2,1,Electronics,Email
+590,43,Female,65920.07,North,Silver,664.03,16,3.7,84.0,0,Clothing,Call
+591,51,Male,42061.75,West,Gold,487.06,1,4.5,72.49,0,Clothing,Email
+592,68,Female,66669.04,East,Gold,514.57,1,8.7,89.48,1,Home,Email
+593,58,Female,77949.47,West,Silver,514.64,17,7.7,11.76,1,Beauty,Social Media
+594,24,Female,50853.26,West,Basic,469.95,1,3.5,99.02,0,Beauty,Social Media
+595,21,Female,57989.74,East,Gold,738.34,13,2.1,20.94,0,Beauty,Call
+596,67,Male,60220.32,North,Gold,483.26,9,3.3,1.18,0,Electronics,Email
+597,62,Male,48226.53,West,Basic,276.09,15,9.3,99.74,0,Beauty,SMS
+598,28,Female,69724.21,West,Silver,421.29,3,6.2,28.11,0,Electronics,Email
+599,46,Male,58185.78,South,Basic,535.74,14,5.8,66.8,0,Home,SMS
+600,53,Male,66292.99,West,Gold,745.84,11,6.4,17.67,1,Electronics,Call
+601,42,Male,46687.62,East,Gold,620.62,12,4.3,58.02,1,Home,Call
+602,38,Female,53438.13,South,Basic,329.89,13,8.3,90.4,0,Home,SMS
+603,53,Female,70835.72,North,Gold,997.04,13,5.7,32.02,0,Beauty,SMS
+604,27,Female,54407.5,South,Silver,552.96,1,2.1,67.03,0,Beauty,Email
+605,54,Male,85904.46,East,Gold,755.08,10,2.2,18.79,0,Electronics,Call
+606,26,Female,54005.46,East,Basic,469.66,3,5.8,62.48,0,Clothing,Email
+607,41,Female,63370.27,South,Gold,606.67,4,9.4,33.65,0,Beauty,SMS
+608,52,Male,73988.86,North,Basic,667.89,16,3.8,21.12,1,Beauty,Social Media
+609,66,Female,38724.51,South,Basic,743.64,8,8.8,31.32,0,Clothing,Social Media
+610,52,Female,33587.87,North,Basic,711.47,16,7.9,17.88,1,Clothing,Social Media
+611,65,Male,37115.16,South,Gold,674.44,17,3.2,90.19,1,Beauty,SMS
+612,53,Male,78938.76,East,Gold,436.98,19,1.3,39.72,0,Clothing,Email
+613,35,Male,51722.13,West,Gold,385.65,15,1.9,24.53,0,Electronics,Call
+614,66,Female,98372.99,West,Gold,566.52,16,7.6,44.84,1,Home,SMS
+615,56,Female,51536.29,North,Basic,686.63,15,2.8,32.05,1,Home,Social Media
+616,49,Female,62768.27,North,Basic,455.46,2,4.3,74.44,0,Beauty,Email
+617,41,Male,83131.65,North,Basic,713.03,11,5.5,97.12,0,Beauty,Call
+618,40,Male,90091.39,East,Basic,790.52,1,7.5,43.8,0,Electronics,Call
+619,49,Female,90922.55,South,Basic,316.74,15,2.0,86.1,1,Clothing,SMS
+620,54,Female,78125.49,East,Basic,332.62,19,4.7,56.59,0,Beauty,SMS
+621,29,Male,75360.94,West,Basic,471.92,4,5.4,15.72,0,Home,Call
+622,66,Male,68887.9,North,Basic,561.52,11,5.9,69.06,1,Electronics,Call
+623,30,Male,71675.42,South,Basic,395.09,5,8.4,51.34,0,Electronics,Social Media
+624,40,Male,51732.21,West,Basic,770.44,3,2.5,65.06,0,Clothing,Call
+625,42,Female,47727.02,West,Gold,584.81,13,8.3,88.97,0,Beauty,SMS
+626,52,Male,59949.38,West,Silver,507.89,10,7.2,44.04,1,Beauty,Email
+627,58,Female,57447.23,East,Gold,212.82,11,6.0,90.12,0,Electronics,Social Media
+628,47,Female,53201.58,North,Basic,236.84,18,7.3,75.07,0,Home,Social Media
+629,34,Female,70445.81,West,Basic,556.2,2,4.7,48.86,0,Beauty,Call
+630,66,Male,74329.58,North,Silver,73.48,7,2.2,60.32,0,Home,Email
+631,37,Male,61326.1,East,Basic,702.53,9,7.0,32.56,0,Electronics,Social Media
+632,65,Male,82162.95,West,Basic,468.37,10,5.7,98.36,0,Beauty,SMS
+633,42,Male,42874.66,East,Basic,1148.62,18,6.8,66.74,0,Home,Call
+634,39,Female,57095.11,East,Basic,961.58,7,4.0,4.38,1,Electronics,SMS
+635,30,Male,49247.67,North,Basic,463.71,7,9.2,32.66,1,Home,Call
+636,36,Male,32001.95,West,Basic,478.73,3,6.3,62.33,0,Beauty,Social Media
+637,66,Female,58759.79,East,Silver,699.12,12,1.8,5.63,0,Clothing,Call
+638,53,Male,58173.79,West,Basic,840.63,7,5.0,2.39,0,Home,Email
+639,29,Female,82701.75,North,Basic,172.39,17,7.8,45.0,1,Clothing,SMS
+640,58,Female,69462.18,East,Gold,142.72,1,8.1,33.27,0,Beauty,Email
+641,36,Female,44637.2,North,Basic,375.59,5,5.5,43.83,0,Clothing,SMS
+642,29,Female,87811.39,West,Basic,616.55,16,9.1,26.27,0,Electronics,SMS
+643,26,Female,78315.51,West,Gold,599.37,15,3.4,16.47,0,Clothing,Call
+644,24,Female,68731.47,North,Basic,713.95,2,4.7,68.91,0,Home,Social Media
+645,45,Female,56602.74,South,Basic,260.06,9,9.1,51.46,0,Home,Social Media
+646,31,Female,45608.41,East,Basic,36.77,7,9.1,20.02,0,Clothing,Email
+647,48,Male,54416.9,West,Basic,671.6,4,7.2,31.96,1,Electronics,Call
+648,69,Male,76331.23,West,Silver,334.36,18,8.7,59.18,0,Beauty,Social Media
+649,36,Male,88268.79,East,Gold,96.3,4,1.8,7.22,0,Clothing,SMS
+650,64,Male,83148.65,North,Basic,529.01,13,8.8,14.75,0,Home,SMS
+651,33,Female,52667.26,North,Silver,658.64,1,3.9,7.32,0,Home,Call
+652,22,Male,43205.74,North,Silver,475.59,3,2.6,81.23,0,Clothing,Email
+653,52,Female,62113.29,South,Basic,408.43,16,3.2,75.24,0,Clothing,Call
+654,29,Male,33473.41,South,Silver,468.13,4,4.8,75.33,0,Clothing,Email
+655,42,Male,64847.52,West,Basic,425.88,16,3.3,71.63,0,Beauty,Call
+656,69,Male,57785.96,North,Basic,230.39,19,3.9,66.94,0,Home,SMS
+657,38,Female,53009.45,East,Basic,357.06,1,2.2,47.7,0,Home,Call
+658,53,Male,36079.45,West,Basic,604.26,5,3.7,64.23,1,Home,Social Media
+659,40,Female,67704.0,East,Basic,564.34,19,6.2,3.84,0,Beauty,Social Media
+660,33,Female,52009.49,West,Gold,533.61,11,5.0,62.15,0,Electronics,Call
+661,56,Male,42451.25,South,Basic,300.97,13,4.1,77.79,0,Home,Email
+662,62,Male,16916.07,West,Basic,463.7,5,7.7,50.04,0,Home,Email
+663,59,Male,59587.28,South,Basic,64.59,4,9.0,35.75,0,Electronics,SMS
+664,56,Female,86583.77,West,Silver,535.7,4,7.8,27.74,0,Beauty,SMS
+665,31,Male,84918.89,North,Silver,785.77,4,4.0,64.28,1,Electronics,Email
+666,48,Female,53143.56,East,Silver,205.17,4,7.7,69.28,0,Electronics,Call
+667,22,Female,50966.82,North,Silver,382.81,18,2.4,87.1,0,Electronics,SMS
+668,52,Male,67031.61,West,Gold,565.82,18,2.2,34.23,1,Electronics,Email
+669,40,Male,45024.22,West,Basic,750.57,16,4.1,76.98,1,Beauty,Email
+670,46,Female,64526.88,West,Silver,410.36,9,8.3,56.14,0,Beauty,Call
+671,60,Female,71491.2,South,Gold,361.55,18,3.2,88.28,0,Electronics,Social Media
+672,28,Female,78404.0,East,Gold,106.22,2,1.6,52.78,0,Clothing,Email
+673,35,Male,58497.69,East,Gold,520.69,4,2.2,51.76,0,Clothing,SMS
+674,64,Female,56944.89,West,Basic,908.42,12,8.7,57.79,0,Clothing,Call
+675,29,Male,46830.26,West,Basic,555.47,7,6.7,74.93,0,Clothing,Call
+676,26,Female,47596.79,South,Basic,495.54,15,3.3,96.47,1,Home,Call
+677,27,Female,56602.82,North,Silver,564.42,7,6.0,7.36,0,Beauty,Social Media
+678,61,Male,65510.48,North,Basic,497.78,17,5.7,5.34,0,Beauty,Social Media
+679,34,Female,73703.77,East,Basic,337.4,16,6.9,93.76,0,Electronics,SMS
+680,55,Male,47952.32,South,Gold,664.66,19,3.1,52.99,1,Home,SMS
+681,24,Male,82390.33,West,Basic,545.15,9,8.8,61.49,0,Electronics,Call
+682,63,Female,55933.15,East,Gold,503.52,14,3.8,48.24,0,Electronics,SMS
+683,30,Male,59679.49,South,Basic,304.93,17,7.2,9.37,0,Beauty,Email
+684,57,Male,48791.82,North,Basic,760.7,5,1.1,76.81,0,Home,Social Media
+685,59,Female,23636.4,South,Basic,632.94,2,4.4,74.72,0,Clothing,Call
+686,26,Male,73260.68,North,Silver,389.42,16,4.2,31.17,0,Beauty,Call
+687,67,Male,71052.66,South,Basic,700.36,14,5.9,30.62,0,Home,Email
+688,44,Male,55780.09,East,Basic,400.49,14,1.7,83.78,0,Home,Email
+689,19,Female,61004.86,North,Gold,343.6,1,8.1,7.24,0,Beauty,Email
+690,22,Male,67739.09,East,Basic,348.06,3,3.0,88.11,0,Beauty,Email
+691,46,Female,36561.81,East,Silver,145.79,7,7.1,25.67,0,Electronics,Call
+692,54,Female,52064.21,North,Silver,594.31,15,8.2,59.3,0,Electronics,Social Media
+693,55,Male,71913.97,North,Basic,133.77,19,6.1,93.6,0,Electronics,Social Media
+694,36,Male,41185.66,West,Silver,254.31,2,7.7,67.81,0,Clothing,Email
+695,25,Male,64403.37,West,Basic,84.88,19,7.0,41.44,1,Beauty,SMS
+696,65,Female,39651.27,West,Silver,482.79,9,4.2,68.95,0,Home,Call
+697,62,Male,66996.45,East,Basic,469.94,19,8.3,34.4,0,Beauty,Social Media
+698,18,Male,59465.38,East,Silver,434.66,5,3.7,27.73,0,Home,Email
+699,39,Male,35773.02,West,Basic,291.48,18,6.1,99.67,1,Clothing,SMS
+700,69,Male,77471.09,East,Silver,265.55,16,7.7,75.08,1,Beauty,SMS
+701,34,Male,48981.13,East,Basic,592.87,4,4.4,64.47,0,Home,Email
+702,24,Female,47846.21,North,Basic,389.89,12,3.7,35.53,0,Home,Call
+703,42,Female,63008.54,North,Basic,563.27,7,5.1,4.92,0,Electronics,Social Media
+704,62,Male,77229.56,East,Basic,322.95,14,8.4,3.11,0,Clothing,SMS
+705,21,Male,44762.67,West,Gold,536.21,12,9.4,55.42,1,Beauty,Social Media
+706,53,Male,60925.2,South,Basic,760.66,3,5.9,76.2,0,Electronics,Social Media
+707,23,Male,66432.25,West,Gold,617.23,5,7.0,53.74,0,Clothing,SMS
+708,48,Female,70396.58,South,Gold,417.52,17,9.1,84.08,1,Electronics,Email
+709,36,Male,62646.62,West,Silver,551.44,10,1.9,3.34,1,Beauty,SMS
+710,61,Female,54494.58,North,Basic,451.87,10,3.1,36.68,0,Home,SMS
+711,56,Female,47586.15,East,Basic,501.58,11,7.4,23.71,0,Beauty,Call
+712,44,Male,61292.16,East,Silver,434.88,17,8.4,44.73,0,Clothing,Social Media
+713,27,Female,43917.91,North,Basic,467.13,5,8.7,7.24,1,Beauty,Email
+714,43,Female,16179.74,South,Basic,542.42,13,4.7,95.41,1,Clothing,Social Media
+715,36,Female,66548.4,South,Silver,301.33,10,1.8,22.33,0,Electronics,SMS
+716,56,Female,73559.02,South,Gold,296.82,9,4.9,92.23,0,Clothing,Email
+717,20,Male,24556.01,North,Silver,222.29,17,3.1,42.59,1,Home,Email
+718,62,Male,44854.04,South,Basic,179.95,1,3.6,98.55,0,Home,Email
+719,30,Female,69287.31,North,Silver,256.54,4,8.0,55.41,0,Home,Email
+720,67,Male,90862.43,West,Basic,531.89,4,1.7,93.08,1,Electronics,Call
+721,45,Male,60311.91,West,Basic,321.44,18,8.4,0.53,0,Clothing,Email
+722,37,Male,49079.96,North,Gold,602.72,9,4.8,74.82,0,Electronics,SMS
+723,45,Male,57256.55,East,Basic,506.94,18,6.4,90.31,1,Beauty,Call
+724,25,Male,80623.15,West,Basic,106.3,14,1.8,13.97,1,Beauty,SMS
+725,58,Female,50310.54,South,Basic,631.0,15,4.0,9.61,0,Beauty,SMS
+726,56,Male,48012.12,North,Gold,662.16,6,1.8,42.46,0,Beauty,Social Media
+727,18,Male,52758.85,South,Silver,301.23,10,9.7,93.37,0,Home,Email
+728,20,Male,45700.07,South,Silver,584.04,15,8.3,54.24,0,Clothing,Email
+729,30,Male,61840.05,East,Silver,328.7,4,5.1,52.75,0,Home,SMS
+730,45,Female,84370.18,South,Basic,519.53,18,3.0,14.11,1,Clothing,Email
+731,66,Female,64846.19,East,Basic,247.1,18,9.4,0.08,0,Clothing,Call
+732,42,Female,56214.7,West,Basic,141.38,17,4.1,81.01,0,Electronics,Social Media
+733,50,Female,55622.83,North,Basic,423.44,12,2.4,8.76,0,Beauty,Email
+734,55,Male,36552.14,South,Basic,475.25,7,6.1,63.38,1,Clothing,Email
+735,23,Female,73246.65,North,Gold,420.46,16,9.5,91.46,0,Beauty,Call
+736,61,Male,58832.44,South,Basic,263.19,11,1.0,20.87,0,Beauty,Social Media
+737,62,Male,57292.8,North,Basic,420.02,14,3.1,66.53,0,Beauty,Call
+738,49,Male,107896.61,South,Basic,553.86,3,9.4,7.87,0,Home,SMS
+739,62,Male,64481.29,South,Basic,491.02,19,2.5,60.38,0,Beauty,SMS
+740,64,Male,48723.13,South,Gold,536.5,18,2.0,16.39,0,Clothing,Email
+741,38,Female,53604.64,South,Basic,365.98,10,6.1,73.6,0,Home,Social Media
+742,33,Female,77226.69,South,Basic,734.34,6,8.8,30.12,0,Beauty,SMS
+743,38,Female,61699.06,South,Silver,264.77,13,5.3,46.34,0,Electronics,Call
+744,28,Female,38425.83,South,Basic,597.51,10,10.0,59.94,0,Beauty,SMS
+745,54,Male,73788.43,South,Basic,736.38,18,7.1,17.13,0,Beauty,SMS
+746,53,Female,49977.84,South,Basic,596.18,16,1.7,74.16,0,Home,Call
+747,52,Male,88099.47,North,Silver,459.5,6,9.9,30.26,0,Clothing,Email
+748,36,Female,76200.72,East,Gold,394.34,13,4.7,66.24,0,Beauty,Social Media
+749,37,Male,53290.17,South,Silver,707.22,4,3.6,15.83,0,Home,Email
+750,35,Male,79215.25,East,Basic,215.41,14,6.0,68.81,0,Home,Call
+751,64,Female,61017.83,South,Gold,305.98,1,3.7,12.82,0,Clothing,SMS
+752,58,Male,72791.61,South,Basic,420.49,5,1.8,42.54,0,Home,Social Media
+753,66,Male,67270.99,North,Basic,747.53,8,1.0,24.72,1,Clothing,Email
+754,31,Female,47304.65,West,Basic,575.95,12,5.0,74.84,1,Electronics,Call
+755,32,Male,50346.75,West,Basic,306.39,2,8.5,26.2,0,Beauty,SMS
+756,48,Female,75449.41,North,Silver,437.94,12,6.2,88.17,0,Home,SMS
+757,18,Female,54978.37,East,Silver,377.14,5,10.0,89.18,0,Electronics,Email
+758,20,Female,53945.27,West,Gold,358.04,5,3.6,19.64,0,Home,Call
+759,33,Male,45673.16,North,Silver,695.78,13,3.5,61.38,0,Home,SMS
+760,40,Male,66353.99,North,Silver,225.65,9,2.4,8.77,0,Electronics,SMS
+761,28,Male,90937.87,West,Basic,821.76,10,2.5,39.15,0,Home,Social Media
+762,29,Female,43987.01,East,Basic,665.65,1,3.6,71.33,1,Home,SMS
+763,27,Male,60363.29,North,Silver,718.17,3,8.1,65.94,0,Electronics,Email
+764,49,Female,81183.31,South,Basic,407.41,18,9.2,62.47,1,Home,Call
+765,33,Female,58805.38,East,Gold,470.01,12,9.8,28.25,1,Clothing,Call
+766,25,Male,66785.58,East,Basic,213.37,3,3.1,37.8,0,Home,Social Media
+767,55,Female,44064.1,West,Basic,395.07,9,8.9,10.29,0,Beauty,Call
+768,29,Male,66424.61,West,Basic,598.73,2,4.0,71.9,0,Home,Email
+769,41,Male,57192.84,South,Basic,759.21,3,2.0,50.39,0,Beauty,SMS
+770,45,Male,74785.95,North,Basic,278.57,14,8.8,70.88,0,Beauty,Social Media
+771,25,Male,77810.79,West,Silver,426.9,4,6.7,24.89,0,Home,Call
+772,45,Male,98843.45,West,Basic,469.74,19,2.5,32.44,0,Electronics,Social Media
+773,53,Female,68694.5,East,Silver,220.84,13,4.9,33.42,1,Clothing,Social Media
+774,43,Female,64886.94,West,Basic,618.27,7,3.6,2.57,0,Clothing,Call
+775,25,Female,62915.76,West,Basic,355.2,12,7.6,34.1,1,Home,Social Media
+776,67,Male,54702.51,West,Basic,460.92,3,5.1,80.33,0,Electronics,Call
+777,45,Male,65077.26,West,Gold,409.61,9,9.9,89.73,1,Electronics,Email
+778,45,Male,55568.98,East,Basic,342.13,2,1.5,51.82,0,Clothing,Call
+779,54,Female,62526.91,South,Silver,498.59,9,4.2,45.55,0,Electronics,SMS
+780,58,Male,79763.96,South,Basic,456.88,12,5.3,3.08,1,Home,Call
+781,53,Female,44901.86,North,Silver,425.63,12,5.5,87.92,0,Home,SMS
+782,44,Female,77098.18,West,Basic,354.31,15,3.8,1.3,0,Electronics,Social Media
+783,34,Male,79756.73,East,Silver,563.9,2,7.6,94.48,0,Home,Call
+784,26,Male,58228.97,North,Silver,830.72,18,8.9,48.92,0,Beauty,SMS
+785,50,Female,28172.18,North,Gold,527.98,13,9.4,34.19,0,Clothing,Call
+786,37,Male,50882.67,South,Basic,699.22,14,8.2,92.42,1,Home,Call
+787,30,Female,79454.92,East,Basic,221.96,5,8.7,2.44,0,Electronics,Call
+788,45,Male,59656.98,East,Basic,531.55,10,6.0,58.14,0,Clothing,Email
+789,65,Male,45010.47,East,Gold,280.53,12,8.4,54.89,1,Home,SMS
+790,46,Female,52428.38,South,Silver,204.62,10,3.7,21.93,0,Clothing,Email
+791,30,Male,72609.3,South,Silver,352.13,11,4.6,42.89,0,Electronics,Email
+792,63,Female,68201.0,South,Basic,738.38,2,3.9,65.23,1,Beauty,SMS
+793,52,Male,56416.02,South,Basic,690.0,5,5.2,72.71,0,Beauty,Call
+794,23,Female,54497.63,South,Basic,548.6,7,3.6,0.07,0,Home,Email
+795,35,Female,54123.63,West,Gold,193.46,6,9.7,93.69,0,Beauty,Email
+796,68,Male,46163.85,West,Silver,460.74,3,3.8,16.45,0,Home,Email
+797,22,Female,84230.64,East,Gold,560.34,13,1.9,23.36,0,Clothing,Call
+798,64,Male,55165.19,North,Basic,535.11,3,5.7,26.35,0,Home,Email
+799,42,Male,78257.38,East,Silver,131.24,6,1.5,3.78,1,Home,Social Media
+800,19,Male,82819.74,North,Silver,321.94,11,2.0,12.31,0,Home,SMS
+801,27,Female,74974.66,South,Basic,487.18,17,3.0,98.63,0,Beauty,Social Media
+802,47,Female,53525.7,North,Gold,607.26,10,5.2,31.52,1,Home,Call
+803,67,Male,66055.95,East,Gold,60.77,12,4.9,11.53,0,Electronics,Email
+804,62,Male,59637.07,East,Gold,467.58,17,8.2,10.7,1,Home,SMS
+805,22,Female,46444.47,North,Silver,528.61,4,7.7,71.95,0,Clothing,Email
+806,50,Male,64865.39,West,Basic,669.92,2,4.8,85.46,1,Electronics,Call
+807,18,Male,42314.4,South,Basic,638.57,11,4.0,25.7,0,Clothing,SMS
+808,35,Female,77815.19,South,Gold,616.51,7,3.8,2.09,0,Clothing,Social Media
+809,49,Male,53030.74,East,Basic,340.01,2,8.0,22.31,0,Clothing,SMS
+810,64,Female,63017.39,West,Silver,118.4,18,1.5,5.65,0,Electronics,Email
+811,66,Male,64249.32,North,Silver,421.39,4,1.1,10.34,1,Electronics,SMS
+812,28,Female,56116.43,South,Silver,700.33,8,8.2,43.15,0,Beauty,Call
+813,38,Male,68800.41,West,Gold,778.69,14,5.3,22.99,0,Electronics,Call
+814,43,Male,52876.45,South,Basic,642.11,12,2.2,51.59,1,Home,SMS
+815,42,Female,73069.46,West,Basic,585.87,18,3.1,25.35,0,Clothing,Call
+816,39,Male,39810.3,West,Basic,575.93,11,9.4,94.05,0,Beauty,Call
+817,44,Female,61895.69,East,Basic,388.78,8,8.7,90.59,0,Electronics,Call
+818,66,Male,89083.93,South,Basic,473.99,2,7.4,56.68,0,Clothing,Social Media
+819,30,Female,44995.03,North,Basic,833.81,15,5.3,35.44,0,Electronics,Email
+820,50,Female,49833.83,East,Gold,311.49,9,5.7,38.11,1,Beauty,Call
+821,51,Female,67708.62,East,Gold,822.96,19,9.8,41.19,0,Electronics,SMS
+822,58,Female,62693.73,North,Basic,435.59,8,9.7,72.76,0,Electronics,Call
+823,52,Male,65259.45,East,Basic,765.09,19,2.9,45.16,1,Clothing,Social Media
+824,18,Male,67337.81,West,Gold,218.64,5,8.3,85.67,0,Home,SMS
+825,38,Female,69520.82,West,Basic,617.18,11,2.8,94.41,0,Electronics,Email
+826,65,Female,76645.5,South,Basic,352.65,15,2.9,33.59,0,Beauty,SMS
+827,23,Female,66147.28,South,Basic,216.95,8,7.1,56.07,0,Electronics,SMS
+828,45,Male,56381.14,North,Silver,543.71,19,4.6,9.51,0,Electronics,SMS
+829,34,Male,70088.61,South,Basic,701.89,8,9.4,20.05,0,Home,SMS
+830,22,Male,88498.23,West,Gold,331.01,19,1.8,41.35,0,Clothing,Call
+831,48,Male,58010.49,North,Basic,200.2,18,5.6,20.62,1,Beauty,Email
+832,22,Female,45382.06,North,Silver,481.63,10,9.3,87.66,0,Clothing,Call
+833,55,Female,76606.21,South,Basic,482.51,7,9.1,15.83,1,Clothing,Social Media
+834,20,Female,58194.28,West,Basic,609.66,9,2.4,45.57,0,Clothing,Social Media
+835,40,Male,27409.96,North,Silver,689.92,1,4.3,60.57,0,Electronics,SMS
+836,54,Male,72711.33,West,Silver,488.12,19,6.6,69.19,0,Home,Call
+837,54,Male,51970.08,West,Silver,871.1,5,2.4,38.31,1,Electronics,Call
+838,27,Female,58642.0,West,Silver,544.85,19,9.7,86.91,0,Beauty,Email
+839,27,Female,64979.7,South,Gold,430.71,1,9.2,56.83,0,Home,Email
+840,36,Male,62857.5,East,Gold,177.69,15,2.5,43.95,1,Clothing,Email
+841,34,Female,70641.78,East,Silver,447.47,16,2.1,6.72,0,Home,Call
+842,38,Male,53467.7,North,Basic,432.72,7,1.8,46.47,1,Beauty,Email
+843,31,Male,67696.59,West,Basic,692.06,12,9.2,82.07,0,Electronics,Email
+844,26,Female,56106.8,South,Basic,592.5,8,2.7,61.45,1,Electronics,Email
+845,63,Male,71082.16,West,Silver,264.13,5,4.7,83.22,1,Clothing,SMS
+846,18,Female,69230.51,West,Basic,534.45,10,5.0,49.4,0,Electronics,Social Media
+847,68,Male,45968.42,South,Basic,634.31,5,6.4,11.85,0,Electronics,Social Media
+848,62,Female,76289.73,East,Gold,805.61,17,1.6,1.36,0,Beauty,Call
+849,30,Female,51960.55,West,Gold,677.5,5,3.0,30.32,1,Home,Call
+850,21,Female,72120.87,West,Gold,652.17,15,9.4,69.8,0,Electronics,SMS
+851,18,Male,65509.31,East,Basic,512.02,13,9.2,79.03,0,Beauty,Social Media
+852,66,Male,87572.76,South,Silver,577.66,1,8.0,29.58,0,Beauty,Email
+853,57,Female,56648.01,North,Basic,749.9,11,1.2,49.57,0,Clothing,Email
+854,49,Female,54760.25,East,Basic,233.44,1,3.9,42.11,0,Beauty,Call
+855,51,Male,59708.71,North,Basic,430.11,11,6.7,41.05,0,Clothing,Social Media
+856,45,Male,55452.3,North,Basic,345.49,18,3.5,23.13,0,Electronics,Call
+857,48,Male,71999.13,East,Basic,575.83,18,9.2,13.64,0,Clothing,Call
+858,25,Female,35755.34,West,Gold,746.04,16,6.7,19.67,0,Beauty,Email
+859,56,Male,44194.76,North,Basic,380.61,13,1.6,5.53,0,Home,Email
+860,43,Male,43982.96,North,Silver,21.94,7,9.2,19.81,1,Home,Social Media
+861,51,Female,74254.61,South,Silver,417.56,1,9.6,0.92,1,Electronics,Call
+862,20,Male,85659.2,West,Basic,682.69,16,1.7,62.73,0,Electronics,SMS
+863,67,Male,58433.26,North,Basic,607.53,1,5.8,31.64,0,Home,Social Media
+864,29,Male,57467.67,South,Basic,585.64,17,3.7,97.31,0,Clothing,Call
+865,18,Female,61050.78,West,Silver,444.0,6,4.5,19.37,0,Electronics,Social Media
+866,61,Female,77428.17,East,Basic,244.19,2,2.6,34.58,0,Beauty,Social Media
+867,22,Female,46089.7,East,Basic,603.06,17,6.2,35.78,0,Electronics,Social Media
+868,47,Female,63575.53,South,Basic,333.14,6,9.6,0.85,0,Clothing,SMS
+869,47,Female,74627.96,East,Silver,936.82,14,5.5,83.92,1,Electronics,SMS
+870,34,Female,67516.41,North,Gold,614.1,18,1.7,3.2,0,Beauty,Email
+871,65,Female,62843.72,West,Basic,383.87,6,6.6,94.02,0,Beauty,Email
+872,64,Male,75015.69,North,Silver,377.72,10,4.1,89.21,0,Beauty,Call
+873,40,Male,19451.52,North,Silver,481.41,18,8.7,53.55,1,Clothing,Social Media
+874,32,Female,70168.13,East,Gold,452.1,9,4.9,54.36,0,Clothing,Call
+875,54,Male,50188.86,North,Gold,723.37,8,2.7,65.38,0,Beauty,Email
+876,38,Male,32540.51,East,Silver,537.28,10,2.7,38.71,0,Beauty,SMS
+877,31,Female,67668.04,West,Silver,353.67,17,7.9,64.72,0,Clothing,Email
+878,19,Male,80604.88,West,Gold,878.09,6,3.4,4.48,0,Clothing,Call
+879,28,Male,57938.27,North,Basic,509.86,14,7.9,5.4,0,Clothing,Email
+880,68,Male,74293.12,South,Basic,653.77,6,2.9,45.72,0,Home,Call
+881,56,Male,84184.17,East,Basic,378.35,7,3.9,54.96,0,Clothing,Call
+882,55,Male,79723.72,East,Gold,572.62,12,5.2,88.78,0,Beauty,Call
+883,51,Female,84599.47,North,Gold,562.22,3,9.5,10.47,1,Home,Call
+884,55,Female,71131.91,East,Basic,122.07,14,9.4,82.26,0,Clothing,Email
+885,67,Female,61131.5,East,Silver,903.06,19,2.9,21.0,1,Beauty,Call
+886,51,Male,35970.51,South,Basic,758.13,16,4.2,39.41,0,Electronics,Call
+887,35,Female,56309.06,South,Basic,420.56,7,2.3,31.66,0,Home,Social Media
+888,47,Male,47351.3,North,Gold,279.55,8,5.6,40.02,0,Beauty,Call
+889,32,Male,92564.14,South,Basic,569.51,18,5.1,15.05,0,Electronics,Email
+890,44,Male,57361.71,North,Basic,517.34,13,9.1,50.36,1,Beauty,Call
+891,68,Male,61848.07,West,Silver,571.13,9,9.4,80.16,1,Clothing,SMS
+892,51,Female,68272.28,North,Silver,538.32,10,4.5,44.15,0,Clothing,SMS
+893,69,Female,60654.04,West,Basic,601.25,9,5.4,49.06,0,Electronics,Call
+894,55,Male,85425.77,North,Silver,789.46,15,9.1,84.88,0,Clothing,SMS
+895,50,Female,50660.26,East,Silver,613.62,2,8.3,70.61,0,Beauty,SMS
+896,41,Male,62919.11,South,Basic,290.07,13,1.0,49.05,0,Electronics,Email
+897,32,Female,48862.94,West,Basic,772.51,2,3.9,25.77,0,Beauty,Social Media
+898,47,Female,40199.66,North,Silver,828.12,19,4.8,88.49,1,Beauty,SMS
+899,59,Male,50823.46,South,Basic,1130.41,2,3.1,57.7,0,Beauty,SMS
+900,68,Female,59444.45,North,Gold,275.3,3,2.8,22.11,1,Clothing,Social Media
+901,34,Male,53560.47,South,Gold,548.58,6,1.3,26.91,1,Clothing,Social Media
+902,22,Female,49613.69,South,Gold,83.58,3,6.8,80.31,1,Beauty,SMS
+903,46,Male,38905.24,North,Basic,610.63,10,3.4,4.41,0,Home,Call
+904,21,Male,58753.42,West,Gold,390.36,6,1.5,99.21,0,Beauty,SMS
+905,27,Female,37429.19,West,Basic,884.69,16,3.1,13.04,0,Beauty,Call
+906,34,Female,71400.84,East,Basic,345.08,17,8.2,79.61,0,Electronics,Call
+907,27,Male,61236.6,South,Basic,162.16,19,8.7,39.48,0,Beauty,Call
+908,34,Female,38136.73,East,Basic,405.75,3,5.3,49.22,1,Clothing,Social Media
+909,37,Female,55361.86,East,Silver,104.9,18,4.7,88.07,1,Electronics,SMS
+910,41,Male,48717.65,North,Basic,650.22,7,9.8,41.29,1,Home,SMS
+911,22,Male,64787.62,North,Basic,86.98,9,2.8,53.75,1,Electronics,Email
+912,51,Female,80106.76,North,Silver,505.69,12,2.9,4.93,0,Home,Social Media
+913,23,Male,31872.41,South,Basic,84.44,5,3.6,0.23,0,Electronics,Email
+914,19,Male,61725.39,North,Silver,435.94,3,2.6,24.48,0,Electronics,Email
+915,30,Male,57598.01,North,Basic,828.68,11,4.4,68.06,0,Home,Call
+916,60,Female,70070.1,South,Gold,572.13,4,9.2,12.13,1,Clothing,Social Media
+917,60,Female,63197.95,South,Gold,327.3,5,6.5,11.38,0,Clothing,Email
+918,65,Male,48720.46,West,Basic,493.76,1,4.7,41.1,0,Clothing,SMS
+919,28,Female,55214.19,North,Basic,503.6,18,9.4,64.78,0,Electronics,Email
+920,68,Male,48059.61,North,Basic,594.53,12,1.4,71.21,0,Beauty,Social Media
+921,64,Female,76140.11,North,Gold,226.63,13,2.9,17.85,0,Electronics,SMS
+922,40,Male,60319.67,West,Basic,618.51,9,6.1,7.96,1,Beauty,SMS
+923,33,Male,88517.86,North,Basic,40.88,2,6.5,94.04,0,Beauty,SMS
+924,48,Female,59090.09,West,Basic,374.02,5,1.4,26.07,0,Clothing,Call
+925,28,Male,49373.9,East,Basic,402.35,13,4.6,85.33,0,Beauty,SMS
+926,33,Female,37294.28,West,Basic,626.67,16,6.8,86.35,0,Electronics,Call
+927,25,Female,32952.9,East,Gold,504.53,16,7.3,77.25,0,Electronics,Call
+928,21,Male,36237.96,North,Basic,218.89,3,6.7,16.88,1,Clothing,Email
+929,57,Male,64006.9,East,Basic,303.0,4,3.9,82.18,0,Home,Email
+930,21,Female,67630.88,West,Gold,539.74,11,1.8,76.93,0,Electronics,SMS
+931,42,Male,36282.14,South,Gold,484.19,14,4.8,59.67,0,Beauty,Social Media
+932,20,Male,73425.57,East,Basic,384.18,3,2.2,33.72,0,Electronics,SMS
+933,49,Male,52754.08,East,Basic,403.83,16,9.5,26.25,0,Electronics,Email
+934,20,Male,62201.9,North,Basic,639.23,15,5.3,12.19,0,Electronics,SMS
+935,44,Male,84183.31,West,Gold,396.46,10,3.9,50.98,0,Home,Email
+936,46,Female,73452.59,East,Basic,482.38,9,7.9,58.53,1,Beauty,SMS
+937,49,Female,55972.04,East,Gold,933.99,11,5.5,35.93,0,Clothing,Social Media
+938,67,Male,46632.12,East,Silver,215.26,16,3.8,47.54,0,Electronics,SMS
+939,68,Male,27722.77,East,Silver,129.63,10,8.3,36.35,0,Beauty,Social Media
+940,36,Male,49212.7,South,Basic,656.72,17,8.8,64.1,0,Beauty,Social Media
+941,38,Female,56833.05,West,Basic,364.27,19,7.1,90.13,1,Clothing,SMS
+942,22,Male,45192.31,North,Basic,436.35,2,1.4,16.39,1,Electronics,Social Media
+943,35,Female,58031.15,North,Basic,343.77,2,6.1,38.14,0,Home,Social Media
+944,45,Female,61152.78,South,Silver,448.04,6,7.9,14.09,1,Beauty,Email
+945,59,Female,56627.16,West,Gold,819.71,19,2.2,62.49,1,Clothing,Email
+946,39,Male,50249.96,East,Silver,660.43,8,3.1,72.89,1,Home,Social Media
+947,38,Female,62529.82,South,Silver,672.44,3,8.9,93.19,0,Beauty,Call
+948,23,Male,66629.11,West,Basic,216.75,14,1.2,27.89,0,Electronics,SMS
+949,18,Female,43644.01,East,Basic,269.77,16,7.8,95.02,0,Beauty,Social Media
+950,22,Male,81163.99,South,Basic,67.82,1,5.3,6.33,1,Home,SMS
+951,58,Female,58521.18,West,Silver,338.12,3,5.0,60.3,0,Home,Email
+952,29,Male,60282.74,North,Gold,691.34,18,1.1,5.71,0,Electronics,SMS
+953,43,Female,70623.22,North,Silver,603.39,9,8.4,89.38,0,Electronics,Social Media
+954,63,Male,63498.24,West,Basic,455.7,6,4.2,52.98,0,Clothing,Social Media
+955,51,Male,74297.05,North,Basic,495.54,1,5.9,66.93,0,Electronics,Social Media
+956,66,Male,64306.86,West,Silver,362.22,10,7.1,83.16,1,Clothing,Social Media
+957,31,Male,50813.44,East,Basic,540.95,6,7.3,15.03,0,Home,Call
+958,43,Female,65422.55,West,Gold,653.18,12,9.6,3.86,1,Home,Call
+959,62,Female,42844.11,East,Gold,176.82,4,5.8,87.89,0,Beauty,Call
+960,44,Male,61628.4,South,Silver,559.93,13,4.6,31.49,0,Beauty,Social Media
+961,26,Female,59501.55,West,Basic,686.49,17,9.6,12.9,0,Clothing,Call
+962,43,Male,56878.25,South,Basic,416.98,8,6.8,46.85,0,Electronics,SMS
+963,64,Male,58071.94,North,Basic,640.14,3,3.7,59.83,0,Electronics,Social Media
+964,39,Female,31772.26,East,Basic,1062.93,12,2.1,3.1,0,Beauty,Email
+965,64,Male,51769.13,West,Basic,479.13,7,8.6,27.49,0,Home,Social Media
+966,47,Male,61392.67,South,Silver,578.66,12,4.3,3.28,1,Clothing,SMS
+967,60,Female,62397.85,East,Silver,352.39,2,6.9,42.03,0,Home,Call
+968,65,Male,44584.87,East,Basic,536.25,14,5.2,89.51,0,Home,Social Media
+969,34,Male,78985.62,North,Basic,592.05,5,2.8,98.27,0,Electronics,Call
+970,43,Male,47007.38,North,Basic,538.97,9,6.4,63.7,0,Clothing,Social Media
+971,53,Male,74541.86,East,Basic,296.06,11,1.5,16.16,0,Home,SMS
+972,18,Female,66407.92,East,Gold,541.27,5,4.7,90.58,0,Beauty,Social Media
+973,25,Female,50306.59,West,Basic,792.44,3,5.9,51.62,0,Beauty,Call
+974,66,Female,86629.66,East,Basic,589.73,17,4.9,15.37,0,Electronics,Call
+975,52,Male,42095.45,West,Basic,692.4,2,7.7,92.17,0,Beauty,SMS
+976,69,Male,73787.31,East,Gold,452.6,1,8.5,75.75,1,Beauty,Social Media
+977,32,Female,75008.73,North,Silver,649.98,7,7.9,73.17,0,Home,Email
+978,64,Male,49940.7,West,Basic,555.85,14,1.3,70.92,0,Beauty,Social Media
+979,39,Male,80886.98,South,Silver,309.82,5,2.7,20.03,1,Beauty,SMS
+980,31,Male,56249.3,North,Silver,563.7,19,5.8,21.1,0,Home,Email
+981,43,Male,64330.4,West,Gold,301.66,11,9.4,68.83,0,Electronics,SMS
+982,45,Female,63904.83,West,Basic,373.42,2,8.5,21.97,0,Electronics,Social Media
+983,40,Female,57985.37,South,Gold,537.87,8,8.6,43.87,0,Clothing,Email
+984,31,Female,72162.12,West,Gold,559.45,9,3.7,78.2,0,Beauty,SMS
+985,41,Male,71902.33,East,Gold,262.15,3,4.9,78.4,0,Home,Call
+986,19,Female,33772.02,South,Silver,710.8,2,5.2,45.33,1,Clothing,Email
+987,62,Female,79565.1,North,Silver,614.4,7,2.4,79.22,1,Electronics,Email
+988,43,Male,35062.62,North,Basic,359.05,5,1.3,83.86,0,Electronics,SMS
+989,31,Male,75488.19,East,Silver,192.48,5,9.5,65.48,0,Home,Call
+990,68,Female,76900.58,North,Silver,471.02,13,3.2,22.84,0,Clothing,Email
+991,24,Female,43635.5,West,Silver,410.81,6,3.2,27.4,0,Clothing,SMS
+992,20,Female,53837.79,West,Basic,522.63,18,1.8,31.48,0,Home,Email
+993,64,Female,43414.43,East,Silver,427.38,2,9.4,11.68,0,Home,Email
+994,40,Male,56776.18,North,Gold,98.51,6,6.2,27.32,0,Clothing,Email
+995,63,Female,55379.49,North,Basic,422.33,9,7.0,20.95,0,Electronics,Call
+996,60,Female,71694.91,East,Gold,438.88,3,9.2,45.53,1,Beauty,Social Media
+997,64,Male,79654.63,South,Silver,626.73,1,4.1,90.84,0,Electronics,Social Media
+998,62,Female,80935.26,North,Gold,360.36,1,6.6,10.45,1,Home,Call
+999,35,Male,51567.48,South,Basic,835.73,19,1.3,72.03,1,Clothing,Call
+1000,55,Male,56861.67,North,Basic,117.67,5,2.7,68.73,0,Clothing,SMS
